@@ -1,0 +1,2 @@
+- Sie kommen an trockenen, stark besonnten Standorten vor.
+- kleine, oft verdornte Blätter, eine dicke Cuticula, Wachsüberzüge, tote Haare, eingesenkte Spaltöffnung, Rollblätter

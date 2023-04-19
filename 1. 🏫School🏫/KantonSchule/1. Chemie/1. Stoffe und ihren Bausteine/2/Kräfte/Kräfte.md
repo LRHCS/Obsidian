@@ -1,0 +1,5 @@
+- Sie lassen nur anhand ihrer Wirkung erkennen
+- Sind die Ursche für eine beschleunigte Bewegung.
+- Sie können - einen Körper verformen
+					  - seine Geschwindigkeit vergrössern oder verkleinern
+					  - seine Bewegungsrichtung ändern

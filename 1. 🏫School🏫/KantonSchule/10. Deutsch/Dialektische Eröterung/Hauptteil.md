@@ -1,0 +1,3 @@
+- Aussage/These/Behauptung/Argumente
+- Begrüdung/Beleg
+- Beispiel

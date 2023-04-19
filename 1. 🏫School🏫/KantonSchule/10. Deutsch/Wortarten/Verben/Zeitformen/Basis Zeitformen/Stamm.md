@@ -1,0 +1,1 @@
+Das Stamm ist ein Infinitiv von einen Verb ohne -er

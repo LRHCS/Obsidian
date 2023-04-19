@@ -1,0 +1,13 @@
+- äquatorradius	| 	6378km
+- Polaradius	|	6357km
+	- Mittlereerdradius | 6340km
+- Abplattung	|	0.3367%
+	-  Die Abplattung entspricht ca. 21km
+- Umfang über die Pole	|	40008km
+- äquatorumfang	| 	40075km
+	- Mittlere Erdumfang | 40000km
+	- Zwischen dem Breitenkreis | 111km
+- Oberfläche	|	510 Mio km^2
+	- Wasser		|	360 Mio. km^2
+	- Festland		|	150 Mio. km^2
+- Volumen		|   1083207000000 km^3

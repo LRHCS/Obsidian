@@ -1,0 +1,1 @@
+Wenn die Zahlenpfeile von Ursprung ausgeht, dann nennen wir es als absolute Werte

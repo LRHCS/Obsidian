@@ -1,0 +1,3 @@
+- Sie sind in tropische Wälder häufig
+- Sie haben dünnen grossen Blätter - oft mit lebenden Haaren, vorgewölbten Zellen und herausgehobenen Spaltöffnungen in der Epidermis
+- Die Wasserausscheidung wird Guttation genannt

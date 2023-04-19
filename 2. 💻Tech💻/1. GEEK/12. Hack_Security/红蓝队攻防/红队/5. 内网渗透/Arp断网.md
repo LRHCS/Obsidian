@@ -1,0 +1,1 @@
+arpspoof -i **network adapter** -t **victim IP address gateway IP address** -r

@@ -1,0 +1,38 @@
+![[Pasted image 20230328200120.png]]
+- Pyramidenform
+	- ![[Pasted image 20230330174615.png | 500]]
+	- Entwicklungsländer mit Agrargesellschaft(Indien/Nambia)
+	- hohe Geburtsrate und hohe Todesrate
+		- Nicht so viel Person werden alt
+		- schlechte Hygiene(schlechte Landwirtschaft)
+	- Phase 1
+- Dreieck mit breiter Basis
+	- ![[Pasted image 20230330174623.png | 500]]
+	- Entwicklungsländer(Niger/Kenia)
+	- Todesrate wird tiefer
+		- in vielen Bereiche wurde verbessert(Hygiene, Landwirtschaft), sterberate sinkt, mehr Kinder werden geboren
+	- Phase 2
+- Tannenbaum/Tropfen
+	- ![[Pasted image 20230330174832.png | 500]]
+	- Schwellenländer(Mexiko/Brasilien)
+	- Die Lebenserwartung steigt, deswegen sinkt die Geburtenrate
+	- es entwickelte sich weiter, **die Rolle von Frauen ändert**(weniger Geburtsrate)
+	- Phase 2
+- Bienenkorb
+	- ![[Pasted image 20230330174711.png | 500]]
+	- Industrieländer(Türkei)
+	- Die Geburtsrate steigt wieder zu normal
+		- Die Personen werden älter(abrundung)
+	- Phase 3
+- Glock
+	- ![[Pasted image 20230330174634.png | 500]]
+	- Industrieländer um 1960(Frankreich um 1960)
+	- Mehr Kinder, Geburtsrate steigt
+	- Phase 3
+- Urne/Zwiebel
+	- ![[Pasted image 20230330174643.png | 500]]
+	- Dienstleistungsgesellschaft(Japan)
+	- Phase 4
+	- alle Personen werden alt, Geburtenrate sinkt weiter
+
+Diesen Modelle Gelten aber nicht immer, zB wenn es Kriege gab(Anzahl Männer nimmt ab) oder Corona(Viele Personen werden tot).

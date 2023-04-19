@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Geographie","id":"d210a9c1f8b0329c","x":-180,"y":60,"width":289,"height":60},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/8. Geografie/Demographie.md","id":"41c7a4943daf9bce","x":-760,"y":54,"width":320,"height":73},
+		{"id":"f17c3090000d0e17","x":-160,"y":-245,"width":250,"height":60,"type":"text","text":"Kartographie"},
+		{"id":"f74d08bd33f7b721","x":451,"y":64,"width":250,"height":60,"type":"text","text":"Meteologie"},
+		{"id":"d44c67a771a825af","x":-157,"y":389,"width":250,"height":60,"type":"text","text":"Erde"},
+		{"id":"e1d73174053c4303","x":-235,"y":580,"width":400,"height":55,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/8. Geografie/3_Planet Erde 2.md"}
+	],
+	"edges":[
+		{"id":"d3c223d77749ff89","fromNode":"41c7a4943daf9bce","fromSide":"right","toNode":"d210a9c1f8b0329c","toSide":"left"},
+		{"id":"24e8f920eafb40e7","fromNode":"d210a9c1f8b0329c","fromSide":"top","toNode":"f17c3090000d0e17","toSide":"bottom"},
+		{"id":"e7814e6225b675cc","fromNode":"d210a9c1f8b0329c","fromSide":"right","toNode":"f74d08bd33f7b721","toSide":"left"},
+		{"id":"198a1626cf939e6d","fromNode":"d210a9c1f8b0329c","fromSide":"bottom","toNode":"d44c67a771a825af","toSide":"top"},
+		{"id":"7db214b461711b6a","fromNode":"d44c67a771a825af","fromSide":"bottom","toNode":"e1d73174053c4303","toSide":"top"}
+	]
+}

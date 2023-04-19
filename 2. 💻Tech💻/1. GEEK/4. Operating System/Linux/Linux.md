@@ -1,0 +1,6 @@
+[# 嵌入式学习之Linux入门篇](https://www.bilibili.com/video/BV1M7411m7wT?vd_source=8f770dbae4bd9741aa555bb473d35466)
+[# 嵌入式学习之Linux系统编程篇](https://www.bilibili.com/video/BV1zV411e7Cy?spm_id_from=333.999.0.0&vd_source=8f770dbae4bd9741aa555bb473d35466)
+[# 嵌入式学习之Linux驱动篇](https://www.bilibili.com/video/BV1Vy4y1B7ta?spm_id_from=333.999.0.0&vd_source=8f770dbae4bd9741aa555bb473d35466)
+[# 嵌入式学习之QT学习篇](https://www.bilibili.com/video/BV1tp4y1i7EJ?vd_source=8f770dbae4bd9741aa555bb473d35466)
+[# linux系统运维](https://www.bilibili.com/video/BV1pz4y1D73n?spm_id_from=333.337.search-card.all.click&vd_source=8f770dbae4bd9741aa555bb473d35466)
+[# Linux kernel Development](https://www.youtube.com/watch?v=598Xe7OsPuU&t=5339s)

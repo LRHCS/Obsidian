@@ -1,0 +1,1 @@
+Amtperiode auf 1 Jahr beschränkt, die Macht der Beamten einzuschränken

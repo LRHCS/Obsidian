@@ -1,0 +1,2 @@
+- If a problem is complex, it means that it has **many components**. Complexity does **not evoke difficulty**.
+- On the other hand, complicated refers to a **high level of difficulty**

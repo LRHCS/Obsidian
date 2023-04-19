@@ -1,0 +1,1 @@
+**Blattadern**, auch **Blattnerven** oder in ihrer Gesamtheit **Nervatur** genannt,, sind die Leitbündel in den Blattspreiten  der Laubblätter. Sie dienen dem Zustrom von Wasser und Nährstoffen, dem Abtransport von Assimilaten (in Lebewesen durch Umwandlung körperfremder in körpereigene Stoffe entstehende Produkte), sowie der mechanischen Verstärkung.

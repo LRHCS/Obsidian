@@ -1,0 +1,2 @@
+# VWL  
+VWL auf dem ganzen Wirtschaft, Preise wichtig, Angebot und die Nachfrage, auch wir als Land. Arbeitslosigkeit. Wie geht es der Wirtschaft. Betrachtet Land oder einzeln Personen. Vogel Perspektive.  

@@ -1,0 +1,11 @@
+- Es gibt eine Ideen Welt, Dort sind alle Ideen, die Ideen sind Perfekt, was wir auf diesem Welt sehen ist nur den Bild(ideen mit verschiedenen Eigenschaften). Jede Sachen auf diesem Welt sind "beweglich", sie werden sicher irgendwann tot, aber die Ideen werden nie Tot, Sie sind immer dort. Unserer Wissen ist von Ideen angeboren, er meint die Ideen ist am Anfang unserer Leben schon in unseren Kopf, wir lernen eigentlich nicht, wie hollen die Ideen eigentlich nur von Kopft raus.
+	- Höhlengleichnis
+		- ![[Pasted image 20221024184325.png]]
+		- Die Sonne ist Idee des Guten
+		- Die Dingen ausserhalb der Höhle sind die Ideen.
+		- Die Feuer ist die Sonne in unseren Welt, es macht alles sichtbar
+		- Die Menschen die vorbeigehen sind die Wahrnehmbare Dinge, die Fakten über dem Welt
+		- Die schatten ist den Bild(Tiktok), Gerüchte, Fake News
+		- Die Gefangenen sind die normale Menschen.
+		- Der jenige Person die aus dem Höhle läuft sind die Philosoph, Sokrates, Rebell.
+		- Für Platon ist ein perfekter Republik wie eine Körper, nur wenn alle Teile gut läuft dann ist den Republik gut. Er denkt die Herrscher soll ein Philosoph sein, weil sie immer mit Vernunft arbeiten

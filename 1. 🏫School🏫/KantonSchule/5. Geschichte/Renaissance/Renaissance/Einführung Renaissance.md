@@ -1,0 +1,19 @@
+![[Pasted image 20230102100203.png]]
+- Epoche 1400 - 1500
+- Bewunderung von Antike(Griechen und Römer)
+	- Kunst
+	- Philosophie
+	- "Wiedergeburt"
+- Neues Menschenbild
+	- Stärkeres Bewusstsein
+	- Autonomie, Individualität
+	- Humanismus
+	- Die Menschen wollen nicht nur die Kirche glauben, sondern auch selbst eine Menschenbild entdecken
+- Neues Verhältnis zur Natur
+	- Viele Künste über die Natur
+	- Kunst macht sich sichtbar, was den Menschen innerlich bewegt
+	- Naturwissenschaft
+		- neue Fächer
+- Unsicherheit und Furcht wegen dem Krieg
+- Habsburger beim Heiligen Römischen Reich
+	- Spanien, Burgund, Böhmen und Ungarn über politische heiraten verschaffen die Herrschaft

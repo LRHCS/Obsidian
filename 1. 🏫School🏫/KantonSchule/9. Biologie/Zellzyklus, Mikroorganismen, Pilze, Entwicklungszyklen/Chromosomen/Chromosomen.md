@@ -1,0 +1,21 @@
+- Eine lange Strang aus DNA
+- Wir haben 46 Chromosomen
+- kommt immer zu zweit vor(**homolog**)
+	- eine ist von mutter, die andere ist von Vater
+	- gleiche Form, Grösse und Gen Abfolge 
+- **Chromatid** ist die hälfe von eine Chromosom
+- **Chromatiden** wurden von Zentromer verbunden
+- ganz Komplex aus DNA und Proteinen kannst man als **Chromatin** bezeichnen
+- Die lange DNA-Strang wickelt um die Proteinen(Histonen-Proteinen)
+- Gonosomen
+	- Geschelchtschromosomen
+	- X, Y
+	- Frau(XX)
+	- Man(XY)
+	- haploider Chromosomensatz(1n, 23 Chromosomen)
+	- durch Befruchtung entsteht aus zwei haploider Chromosom ein diploider Chromosom
+- Autosomen
+	- Körperchromosomen
+	- diploider Chromosomensatz(2n, 46 Chromosomen)
+
+![[Pasted image 20221118164647.png]]

@@ -1,0 +1,2 @@
+Der Temperaturbereiche zwischen Minimum und Maximum entspricht dem Toleranzbereich der untersuchten Art. Er wird auch als ihre ökologische Potenz bezeichnet und stellt ein wichtiges Merkmal dar. Temperatur über Maximium oder unter minimium schädet die Zellen. Zum schluss wird es zum Kälte- oder Hitztod des Lebewesen führen
+![[Pasted image 20211124160747.png]]

@@ -1,0 +1,32 @@
+- Den Gott hat sie die Gedenken gegeben, deswegen wollen sie es auch nutzen und selbst entdecken nicht nur die Kirche glauben.
+	- Natur
+	- Politik
+	- Wissenschaft
+	- Kunst
+			- Nakte Menschen
+			- Portrait(Humanismus, die Menschen stehen im Mitte)
+- Menschen im Mittelpunkt
+- Buchdruck von Johannes Gutenberg
+	- Massenproduktion von Büchern
+	- Wissen speichern
+	- Meinungen austauschen
+	- Am Anfang wurde nur Bibel gedruckt
+	- Flugblatt
+		- Reformation/Revolution
+- Weltbild
+	- Mittelalter
+		- Die Erde ist eine feststehende Scheibe
+		- geozentrisches Weltbild(Erde im Mittelpunkt)
+	- zu Beginn der Neuzeit
+		- Heliozentisches Weltbild(Sonne im Mitte)
+		- Die Erde dreht sich um die Sonne
+		- Konflikt mit der Kirche
+- Denken
+	- Altes
+		- Tradition(Volksbräuche)
+		- festgelegte Regeln+Rollen
+		- Kirche bestimmt Bildng
+		- Kirche ist dominat
+	- Neues
+		- Humanismus Renaissance
+		- Wiedergeburt Antike

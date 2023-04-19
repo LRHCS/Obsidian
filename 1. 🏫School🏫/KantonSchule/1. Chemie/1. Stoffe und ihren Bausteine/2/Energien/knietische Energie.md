@@ -1,0 +1,2 @@
+-  Energie, die ein Objekt aufgrund seiner Bewegung hat
+-  Sie entspricht der Arbeit, die nötig ist, um diesen Körper auf die Geschwindigkeit zu beschleunigen, mit der er sich bewegt

@@ -1,0 +1,13 @@
+- Lehenspyramide
+	- Lehensherr(König)
+		- Er gibt Lehensherr Land, dafür muss die Lehensmann für ihn arbeiten.
+		- bekommt Panzerreiter für den Krieg
+	- Lehensmann(Adeligen)
+		- Von Lehensherr geschützt
+		- Wirschaftliche Existenz ist gesichert
+		- Die Bauern geben eld ab für die Lehensmann
+		- Könnte Grundherr sein
+	- Bauer
+		- Von Lehenmann geschützt
+		- Bekommt unterkunft und essen
+		- muss für die Lehensmann arbeiten

@@ -1,0 +1,7 @@
+- Ist-Wert < Soll-Wert
+	- Haut wird nicht durchblutet, es wird weiss
+	- Blutgefäse wo kalt ist wird  zusammenziehen, andere Blutgefäse wird grösser, wärme verlust wird minimiert
+	-  Haare aufstellen
+		-  Wenn sich bei Kälte die Fellhaare hochstellten, bildete sich zwischen den aufgerichteten **Haaren** und der Haut ein Luftpolster, welches die Körperwärme besser hielt. Zudem wird die Durchblutung der Oberhaut und somit der Wärmeverlust verringert, wenn sie sich zusammenzieht
+ 	- Die grosse Muskelgruppen zittert
+		- Es bewegt um die abwärme zu erzeugen, verbraucht dadurch die Energie

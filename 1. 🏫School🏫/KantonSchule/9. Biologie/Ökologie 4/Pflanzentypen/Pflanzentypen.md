@@ -1,0 +1,6 @@
+[[Aufsitzpflanzen(Epiphyten)]]
+[[Feuchtpflanzen(Hygrophyten)]]
+[[Schlingpflanzen(Lianen)]]
+[[Trockenpflanzen(Xerophyten)]]
+[[Wasserpflanzen(Hydrophyten)]]
+[[Wasserspeicherpflanzen(Sukkulenten)]]

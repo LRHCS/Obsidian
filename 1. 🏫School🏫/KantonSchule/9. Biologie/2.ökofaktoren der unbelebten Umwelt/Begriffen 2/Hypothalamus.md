@@ -1,0 +1,2 @@
+- Hypothalamus (Zwischenhirn), Temperaturregler
+	- Es ist zständig bei Temperatur regulierung

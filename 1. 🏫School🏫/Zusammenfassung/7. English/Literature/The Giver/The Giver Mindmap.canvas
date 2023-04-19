@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"09454962e593c916","x":-346,"y":-31,"width":250,"height":60,"color":"3","type":"text","text":"Giver\n"},
+		{"id":"504cb7747120d2db","x":673,"y":97,"width":250,"height":60,"color":"4","type":"text","text":"Fiona\n"},
+		{"id":"dbd2519519284427","x":673,"y":-142,"width":250,"height":60,"color":"4","type":"text","text":"Asher"},
+		{"id":"51db495880900f3c","x":330,"y":-443,"width":250,"height":60,"color":"4","type":"text","text":"Mother\n"},
+		{"id":"3d595cee566df6a3","x":119,"y":-31,"width":250,"height":60,"color":"3","type":"text","text":"Jonas"},
+		{"id":"f059df890b3d626f","x":119,"y":357,"width":250,"height":60,"color":"3","type":"text","text":"Gabriel"},
+		{"id":"e6f9b3d9eae404f2","x":-628,"y":-438,"width":250,"height":60,"color":"4","type":"text","text":"Chief Elder"},
+		{"id":"b0a408c27744a075","x":-45,"y":-438,"width":250,"height":50,"color":"4","type":"text","text":"Father\n"},
+		{"id":"f960b2059816cdcb","x":-346,"y":357,"width":250,"height":60,"color":"3","type":"text","text":"Rosemary\n"},
+		{"id":"eaad6171d23a722c","x":672,"y":365,"width":250,"height":60,"color":"4","type":"text","text":"Pierre"}
+	],
+	"edges":[
+		{"id":"750aa78bd871add0","fromNode":"09454962e593c916","fromSide":"right","toNode":"3d595cee566df6a3","toSide":"left"},
+		{"id":"4c2ca4360d1ed9ad","fromNode":"3d595cee566df6a3","fromSide":"top","toNode":"b0a408c27744a075","toSide":"bottom"},
+		{"id":"521b1e0c96a5f4e1","fromNode":"3d595cee566df6a3","fromSide":"top","toNode":"51db495880900f3c","toSide":"bottom"},
+		{"id":"bbbf67de3cac55bb","fromNode":"3d595cee566df6a3","fromSide":"right","toNode":"504cb7747120d2db","toSide":"left","label":"crush"},
+		{"id":"413a16662b64e5d3","fromNode":"09454962e593c916","fromSide":"top","toNode":"e6f9b3d9eae404f2","toSide":"bottom","label":"Family"},
+		{"id":"10e092e4637849a9","fromNode":"3d595cee566df6a3","fromSide":"right","toNode":"dbd2519519284427","toSide":"left","label":"friend"},
+		{"id":"abfd35ce279eefe4","fromNode":"09454962e593c916","fromSide":"bottom","toNode":"f960b2059816cdcb","toSide":"top","label":"Father"},
+		{"id":"59c205415f2804ce","fromNode":"3d595cee566df6a3","fromSide":"left","toNode":"f960b2059816cdcb","toSide":"right","label":"Former Receiver(failed)"},
+		{"id":"01784692fe756b5c","fromNode":"e6f9b3d9eae404f2","fromSide":"bottom","toNode":"f960b2059816cdcb","toSide":"left","label":"Mother"},
+		{"id":"efcd122f10e59e8f","fromNode":"3d595cee566df6a3","fromSide":"bottom","toNode":"f059df890b3d626f","toSide":"top","label":"saved"},
+		{"id":"dadecc8b10873776","fromNode":"eaad6171d23a722c","fromSide":"top","toNode":"504cb7747120d2db","toSide":"bottom","label":"crush"}
+	]
+}

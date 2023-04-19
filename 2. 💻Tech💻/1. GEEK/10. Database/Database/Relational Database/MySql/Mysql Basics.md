@@ -1,0 +1,63 @@
+#mysql #database
+- show databases
+- use dbname
+- show tables
+- select * from tbname
+- Select distinct
+- Where(It is used to extract only those records that fulfill a specified condition.)
+	- Between int1 and int2
+	- in(int), in(3)
+- order by desc/asc
+- Like
+	- where pass like "pass%"(start with pass)
+	- "%pass"(end with pass)."%word%"(word in between)
+	- "_r%"(r is in the second position
+	- "_" represent a charactor)
+- limit
+	- limit a number of result
+- as
+		- rename a table name
+	- select id as lrhcs
+		- or short form select id lrhcs
+- min, max, avg, count, sum
+- concat connect multiple string
+	- concat("sql", "is", "so", "easy") ConnectedString
+- database()
+	- returns a database name
+- user()
+	- returns usersname
+- version()
+	- returns version
+- @@datadir
+	- returns a database directory
+- @@hostname, @@basedir
+- select User, Password from mysql.user;
+- 0x7e = ~
+- [``UpdateXML(_`xml_target`_, _`xpath_expr`_, _`new_xml`_)``](https://dev.mysql.com/doc/refman/8.0/en/xml-functions.html#function_updatexml)
+	- This function replaces a single portion of a given fragment of XML markup _`xml_target`_ with a new XML fragment _`new_xml`_, and then returns the changed XML. The portion of _`xml_target`_ that is replaced matches an XPath expression _`xpath_expr`_ supplied by the user.
+```sql
+	mysql> SELECT 
+	-> UpdateXML('<a><b>ccc</b><d></d></a>', '/a', '<e>fff</e>') AS val1, 
+	-> UpdateXML('<a><b>ccc</b><d></d></a>', '/b', '<e>fff</e>') AS val2, 
+	-> UpdateXML('<a><b>ccc</b><d></d></a>', '//b', '<e>fff</e>') AS val3, 
+	-> UpdateXML('<a><b>ccc</b><d></d></a>', '/a/d', '<e>fff</e>') AS val4, 
+	-> UpdateXML('<a><d></d><b>ccc</b><d></d></a>', '/a/d', '<e>fff</e>') AS val5 
+	-> \G
+```
+- left
+	- left(string, int)
+	- give a string and return (int) characters
+- Exists
+	- return 1 if the data exist, return 0 if not
+- ASCII()
+	- return a data in ascii
+- Substring(string, int, int)
+	- select the int2 of character from int1 position(start with 1) from a string
+	- ASCII(substring(username, 1, 1))
+		- returns ascii from u
+- union
+	- united two select phrase
+	- default union have select distincet, if you dont want it you can use union all
+- Group by
+- After Group by dont use where, use Having
+- select * from mysql.user

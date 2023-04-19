@@ -1,0 +1,2 @@
+- Schwitzen 
+	- Bei schwitzen hat Man Wasser auf dem körper, Aggregatzustände braucht Energie zu einer anderer zu wechsel,darum friert man nachher

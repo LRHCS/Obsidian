@@ -1,0 +1,1 @@
+Ein Straf- und Zivilrecht in schriftlicher Form geschaffen und öffentlich aufgestellt, das für alle Bürger Roms galt.

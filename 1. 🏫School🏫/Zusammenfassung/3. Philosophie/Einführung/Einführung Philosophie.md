@@ -1,0 +1,28 @@
+#Philosophie #Prüfung 
+-   Wissen, was Philosophie ist (u.a. vier Grundfragen von Kant verstehen)
+	-   Was kann ich wissen?
+	-   Was soll ich tun?
+	-   Was darf ich hoffen?
+	-   Was ist der Mensch?
+	- "Kann man die Antwort auf dem Internet Google?"
+-   Figur des Sokrates kennen, seine Grundideen verstehen
+		- ![[Sokrates]]
+-   Platons Ideenlehre (inkl. Höhlengleichnis) kennen und verstehen
+	- ![[Platon]]
+-   "Die Glücklichen des Amazonas": Den intellektuellen Konflikt zwischen Chomsky und Everett verstehen
+	- Chomsky denkt, dass Rekursion ein universalles Merkmal aller Sprache(der Wesentliche Teil der Universalgrammatik)
+	- Everetts denkt aber, mindesten ein Sprache gibts keine Rekursion, das heisst keine Nebensätzen, deswegen liegt Chomsky falsch
+-   Psychologie des Glücks: Einzelne Elemente verstehen (nicht auswendig können)
+	- Verbesserungen sind möglich
+		- nicht alles sind vorbestimmt. man kann alles noch ändern.
+	- Unsere Lebensumstände sind nicht so wichtig
+	- Veränderungen sind mühsam
+-   Nussbaums Capability-Approach
+	- nicht vorzeitig zu sterben, volles Menschenleben
+	- guter Gesundheit zu freuen
+	- unnötigen Schmerz zu vermeiden
+	- fünf Sinne zu benutzen
+	- Bindungen zu Dingen und Personen ausserhalb unser selbst zu haben
+	- Vorstellung von Guten, Lebensplan nachdenken
+	- nicht egoistisch sein
+	- mit natur verbinden

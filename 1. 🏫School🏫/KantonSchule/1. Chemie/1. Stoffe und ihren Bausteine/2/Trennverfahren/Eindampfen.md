@@ -1,0 +1,2 @@
+![[Pasted image 20211120120510.png]]
+Abdampfen (auch **Eindampfen**) bezeichnet das Erhitzen einer chemischen Lösung mit dem Ziel, das Lösungsmittel, beispielsweise Wasser, von der gelösten Substanz zu trennen. ... Anders als bei der Destillation geht beim **Eindampfen** an der Luft das Lösungsmittel, beispielsweise als Wasserdampf, verloren.

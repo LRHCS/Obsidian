@@ -1,0 +1,1 @@
+Das **Provokationsrecht**  war in der römischen Republik das Recht eines jeden Bürgers, das Volk um Beistand anzurufen

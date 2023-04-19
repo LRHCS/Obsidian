@@ -1,0 +1,2 @@
+![[Pasted image 20211124163139.png]]
+Enten haben in ihren Beinen eingebaute Wärmetauscher. **Das kalte Blut von den Füßen fließt in den Venen zurück zum Herzen.**  **Die Venen laufen dabei parallel und eng verflochten mit den Arterien, die warmes, sauerstoffreiches Blut vom Herzen bringen.** Im Gegenstromprinzip kühlt so das venöse Blut das arterielle vor bzw. wärmen die Arterien das zurückströmende Blut in den Venen an. Somit haben die Enten immer kalte Füße. 

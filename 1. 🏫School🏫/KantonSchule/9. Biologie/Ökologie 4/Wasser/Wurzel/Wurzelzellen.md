@@ -1,0 +1,13 @@
+- Wurzelrinde
+	- ein Speichergewebe und dient auch dem Stoffaustausch zwischen der Rhizodermis und dem Xylem
+	- Festigungsgewebe
+- Plasmodesmen
+	- Du kannst sie dir als Fäden aus der Grundsubstanz in Zellen (= Plasma) vorstellen. Sie führen durch Aussparungen (= Tüpfel) in der Zellwand  zu einer Nachbarzelle und schaffen so eine Verbindung. In der Mitte eines Plasmodesmos führt ein Zentralstrang namens Desmotubulus. Die Hauptfunktion eines Plasmodesmos ist das Schaffen einer Verbindung zwischen zwei Pflanzenzellen. Über diese sogenannte **Zell-Zell-Verbindung** können Pflanzen zahlreiche Stoffe (z.B. Proteine, Lipide, …) transportieren und Informationen austauschen.
+- Casparischer Streifen
+	- Sie ist die Barriere, die verhindert, dass Wasser und gelöste Nährsalze bzw. Ionen unkontrolliert passieren können. Andersherum verhindert der **Streifen**, dass Wasser aus dem Xylem in den Apoplasten, den freien Diffunsionsraum der Zellwände, und in den Boden gelangt.
+- Perizykel
+	- Diese radiäre Schicht befindet sich unter der Endodermis und ist die äußerste Schicht des Zentralzylinders. Die Bildung der Seitenwurzeln nimmt hier ihren Ausgang.
+- Endodermis
+	- Nur über spezielle Durchlasszellen können Wasser und Nährsalze in den Zentralzylinder gelangen. Die **Endodermis** ermöglicht auf diese Weise eine selektive Nährstoffaufnahme über das Wurzelsystem. Die Aufnahme schädlicher Substanzen, wie Schwermetalle, wird dagegen verhindert.
+- Wurzelhaar
+	- es nimmt die Wasser auf

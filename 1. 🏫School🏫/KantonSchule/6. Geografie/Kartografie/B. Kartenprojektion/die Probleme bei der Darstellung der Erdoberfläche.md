@@ -1,0 +1,1 @@
+  Man kann einen dreidimensionalen Körper nicht exakt auf einer Ebene in zwei Dimensionen abbilden.Es entstehen dabei immer **Verzerrungen**. Flächen, Strecken und Winkel stimmen nicht mehr mit den Verhältnissen auf der Erdoberfläche überein. Eine Karte kann also nie die absolute geometrische Wirklichkeit der Oberfläche darstellen.

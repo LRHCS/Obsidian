@@ -1,0 +1,1 @@
+Die von der Erde auf einen Körper ausgeübte Anziehungskraft

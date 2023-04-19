@@ -1,0 +1,1 @@
+Sie hielten die Führungsrolle des Senats fest und stemmten sich gegen Veränderung der Besitzverhältnisse im Sinne der Armen

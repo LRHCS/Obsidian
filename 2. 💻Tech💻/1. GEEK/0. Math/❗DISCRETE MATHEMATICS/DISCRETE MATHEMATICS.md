@@ -1,0 +1,88 @@
+#Mathe [[Mengenslehre]]
+https://www.youtube.com/watch?v=tkhyQXqVxWA&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=32&t=38s
+# Set Theory
+	- Collection of elements
+	- can be finite or infinite
+	- repeat elements don't repeat, only listed once
+	- no order
+- Common Sets
+	- ![[Pasted image 20230103162411.png]]
+- A = {1,2,3}
+	- 1,2,3 are *elements*
+	- *cardinality* is 3(size)
+		- |A| = 3
+- Empty Sets
+	- ![[Pasted image 20230103162518.png]]
+- Set-Builder Notation
+	- ![[Pasted image 20230103162607.png]]
+- Cross Product(Cartisian Product)
+	- ![[Pasted image 20230103162731.png]]
+	- ![[Pasted image 20230103162743.png]]
+	- If |A| = m and |B| = n, than the cross product is **mn**.  
+- Subset
+	- ![[Pasted image 20230103165325.png]]
+		- A must be contained in B or they can be the same
+	- ![[Pasted image 20230103165349.png]]
+		- the A is strictly smaller then B
+- Power set
+	- It is a set that contains all of the possible subsets of a set
+	- ![[Pasted image 20230103165709.png]]
+		- If |A| = n the the |powerset(A)| = 2^n
+- Set Operation
+	- complements
+		- all other things exept A itself
+		- ![[Pasted image 20230103180021.png]]
+		- ![[Pasted image 20230103175828.png]]
+		
+	- intersection
+		- the same part of two sets
+		- ![[Pasted image 20230103180029.png]]
+		- ![[Pasted image 20230103175902.png]]
+	- union
+		- all elements of two sets
+		- ![[Pasted image 20230103180043.png]]
+		- ![[Pasted image 20230103175926.png]]
+	- Difference
+		- ![[Pasted image 20230103175958.png]]
+		- ![[Pasted image 20230103180053.png]]
+- A set is contable when the set has something to do with the natural numbers(1,2,3...)
+- Synmetric Difference
+	- XOR
+	- ![[Pasted image 20230103194346.png]]
+- Shorten Form
+	- ![[Pasted image 20230103194733.png]]
+# Propositional Logic
+- anything that can be true or false but not at the same time
+	- true = 1, false = 0
+- operators
+	- not
+		- -1p
+		- val(-1p) = 1-val(p)
+			- opposite
+		- ![[Pasted image 20230103210137.png]]
+	- and
+		- p^q
+		- ![[Pasted image 20230103210153.png]]
+			- val(p^q) = min(val(p), val(q))
+	- nand
+		- ![[Pasted image 20230103213108.png]]
+	- or
+		- p+q/p v q
+		- ![[Pasted image 20230103210235.png]]
+			- max(val(p), val(q))
+	- if...then
+		- p->q
+		- ![[Pasted image 20230103210326.png]]
+		-  = 1 If val(p) >= val(q)
+	- if and only if
+		- p<->q
+		- ![[Pasted image 20230103210412.png]]
+- Example
+	- we need a table
+	- ![[Pasted image 20230103210612.png]]
+- ![[Pasted image 20230103210857.png]]
+- Quantifier
+	- ![[Pasted image 20230104150601.png]]
+		- Universal(for all x)
+	- ![[Pasted image 20230104150617.png]]
+		- For some x, existential

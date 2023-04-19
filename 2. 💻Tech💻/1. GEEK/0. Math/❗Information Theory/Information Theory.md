@@ -1,0 +1,1 @@
+[Information and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/)

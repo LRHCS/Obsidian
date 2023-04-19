@@ -1,0 +1,10 @@
+- Physiologische Schwankung
+	- Am Morgen am 3 Uhr ist am tiefsten
+		- Man bewegt nicht mehr(nicht so viel)
+		- Herz bewegt langsamer
+			- darum braucht es weniger Energie
+	- Am Abend am 18 Uhr ist am höchsten
+		- Man tun am 18 Uhr sehr viel
+			- Ich esse etwa am 18 Uhr
+			- Ich denke sehr viel(Hausaufgaben, Test)
+			- Ich bewege(Fitness, Sport)

@@ -1,0 +1,2 @@
+- Sie wachsen mit windenden Bewegungen an anderen Pflanzen in die Höhe
+- ähnlich wie [[Aufsitzpflanzen(Epiphyten)]], sind sie auch die meisten Bewohner der tropische Wäldern

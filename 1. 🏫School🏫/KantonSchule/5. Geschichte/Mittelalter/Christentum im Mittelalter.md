@@ -1,0 +1,19 @@
+- Wegen dem Angriff vom Aussen(Islam, Byzantin), haben alle Christentum geglaubt und Sie kämpfen alle zusammen gegen aussen.
+- Klöster
+	- Zentren der Bildung, Wissen, Wirtschaftsbetriebe, Kunst
+	- Die einzigen geistigen Zentren der Spätantike und des frhen Mittelalter
+- Die Papst haben eine grössere Macht als ein Kaiser
+- Christenheit
+	- Weltklerus
+		- Erzbischof + Bischof + Priestern
+		- Die Bischöfe wurden von Domkapitel und die Priestern gewählt
+	- Die Laien
+		- Normale Personen, die christlich sind
+	- Die Mönche und Nonnen in den Klöstern
+- Gottesgnadentum
+	- Krönung durch den Papst, nur so ist den König legal.
+- Benedikt von Nursia hat viele Regel aufgeschrieben
+	- Benediktinermission
+		- gründeten in England zahlreiche Klöster, sie halten die Regeln von Heiligen Benedikt fest
+	- Benedikinerorden
+		- ein Verband von Klöster die diese Regelnhalten

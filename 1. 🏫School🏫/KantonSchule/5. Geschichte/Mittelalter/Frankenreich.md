@@ -1,0 +1,13 @@
+- erste Grosse Reich nach dem Römer
+- beginnt der Frühmittelalter
+	- germanische Stämme
+	- lässt christlich taufen
+	- die Kirche unterstützt ihn
+- die Germanen und die gallische Römer vermischt sich
+- Karl der Grosse(Karolinger)
+	- "Ideales König"
+	- Kriegsherr
+- Chlodwig(Merowinger)
+	- Er hat viele Länder erobert, sehr mächtig, grosser Macht zuwuchs
+	- er ist Christen, Christentum spielt eine sehr grosse Rolle
+	- lässt sich taufen und macht Christentum Staatsreligion

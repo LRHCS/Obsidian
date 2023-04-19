@@ -1,0 +1,20 @@
+#Prüfung #Philosophie 
+-   Unterscheidung empirisch/normativ/begrifflich verstehen und anwenden können
+	- empirisch
+		- aus Erfahrung etwas kennen
+	- normativ
+		- Normative Sätze geben vor, wie etwas sein _soll_, also wie etwas zu bewerten ist
+		- wie etwas sein sollte
+		- Wert
+	- begrifflich
+		- Es handelt sich somit um die Verbindung einer sprachlichen Bezeichnung mit einem Gedankeninhalt (Konzept)
+		- Gedankeninhalt
+-   Unterscheidung Erklären/Rechtfertigen verstehen und anwenden können
+	- im Falle einer **Erklärung** entsteht im Gegenüber Verständnis durch die Nachvollziehbarkeit eines Sachverhaltes oder Verhaltens. 
+	- im Falle einer **Rechtfertigung** entsteht Anspannung und Stress durch Unverständnis und Nicht-Nachvollziehbarkeit eines aktuellen Sachverhaltes oder Verhaltens.
+	- [[Ethische Argumentieren]]
+-   Empirische Forschung zu Altruismus (bei Menschen und Tieren) verstehen - Ernst Fehr/Gefangenendilemma/Forschung mit Tieren
+	- [[Egoismus und Altruismus]]
+-   Ethische Theorien verstehen: Vertragstheorie, Utilitarismus (inkl. effektiver Altruismus), Kant
+	- [[Der Utilitarismus]]
+	- [[Kants Ethik]]

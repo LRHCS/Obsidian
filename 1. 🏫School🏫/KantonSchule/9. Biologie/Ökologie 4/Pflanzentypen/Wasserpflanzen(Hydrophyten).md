@@ -1,0 +1,3 @@
+- können Wasser, CO2 und Mineralstoffe meist durch ihre zarte Epidemis über die ganze Oberfläche aufnehmen
+- Die Duchlüftungsgewebe durchzeihen oft statt Wasserleitungsgewebe die Sprosse
+- Sie haben Spaltöffnung auf die Oberseite

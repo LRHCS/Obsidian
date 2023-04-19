@@ -1,0 +1,4 @@
+- ähnlichen merkmale wie [[Trockenpflanzen(Xerophyten)]]
+- Sie speichern aber zusätzlich Wasser in Spross oder Blättern, seltenenr in der Wurzel.
+- Die Blätter sind völlig zu Dorn geworden
+- Der Stamm übernimmt die Fotosynthese

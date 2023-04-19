@@ -1,0 +1,2 @@
+![[Pasted image 20211120120732.png]]
+Sedimentierung bzw. **Sedimentation** (Absetzen, zu lat. sedimentum „Bodensatz“) ist das Ablagern/Absetzen von Teilchen aus Flüssigkeiten oder Gasen unter dem Einfluss der Schwerkraft und anderen Kräften, wie zum Beispiel der Fliehkraft in einer Zentrifuge.

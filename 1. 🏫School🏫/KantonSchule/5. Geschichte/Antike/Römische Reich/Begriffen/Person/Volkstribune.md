@@ -1,0 +1,1 @@
+Sie schützt die Plebejern vor unrecht. Sie konnten gegen Amtshandlungen der Beamten Einspruch erheben und einschreiten. Sie wurden von [[Populusque]] gewählt und haben die Vetorecht

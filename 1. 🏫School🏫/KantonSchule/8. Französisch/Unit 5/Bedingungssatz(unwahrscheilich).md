@@ -1,0 +1,2 @@
+- Im Si-Satz [[Imparfait]] und im Hauptsatz [[Conditionnel Présent]]
+- Si j'**étais** à la place de tes parents, je te **donnerais** l'argent pour le voyage.

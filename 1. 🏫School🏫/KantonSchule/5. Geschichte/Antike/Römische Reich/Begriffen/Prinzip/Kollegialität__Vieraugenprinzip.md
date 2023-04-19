@@ -1,0 +1,1 @@
+Jedes Magistratsamt mit zwei oder mehr gleichberechtigten Kollegen besetzt werden musste, die gegenseitig das Rechte besassen, eine Anordnung des Kollegen zu Verhindern.

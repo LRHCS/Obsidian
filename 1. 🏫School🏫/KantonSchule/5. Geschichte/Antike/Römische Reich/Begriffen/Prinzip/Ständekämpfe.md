@@ -1,0 +1,5 @@
+![[Pasted image 20211202194605.png]]
+Es gab hohe Kriegskosten und sie sind stark verschuldet. Diese Lage steht in krassem Wiederspruch zu ihren militärischen Leistungen bei der römische Expansion.
+Die Wohlhabenden Plebejer empfanden es als ungerecht , dass sie Kriegsdienste leisten mussten, aber keine politische Amt ausüber durften.
+Alle Plebejer vermissten schriftliche Rechtssicherheit, da das Recht nicht schriftlich festgelegt war. So durften sie zwei Volkstribune wählen, die die Plebejer vor unrechte schützen sollen. Die Volkstribunen konnten gegen Amtshandlungen der Bramten Einspruch erheben und einschreiten. Ausserdem erhielten die Plebejer das Recht zur Bildung einer eigenen Volksversammlung. Mit dem Zwölftafelgesetz von 450 v chr. wurde ein Straf- und Zivilrecht in schriftlicher Form geschaffen und öffentlich aufgestellt, das für alle Bürger galt
+Am Ende der Ständekämpfe war eine anähernde Gleichstellung von Patriziern und Plebejern erreicht. Die reichen Plebejern bilden plebejischen Amtsadel, der mit dem alten Geburtsadel der Patrizier einen neue Führungsschicht, die Nobilität, bildete.

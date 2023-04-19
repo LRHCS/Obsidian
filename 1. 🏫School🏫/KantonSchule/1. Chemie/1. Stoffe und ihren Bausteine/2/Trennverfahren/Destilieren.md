@@ -1,0 +1,2 @@
+![[Pasted image 20211120115553.png]]
+Die **Destillation** (lat. destillare „herabtröpfeln“) ist ein thermisches Trennverfahren, um ein flüssiges Gemisch verschiedener, ineinander löslicher Stoffe zu trennen.Man nützt bei Destillieren die unterschiedliche Siedetemperatur

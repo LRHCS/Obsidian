@@ -1,0 +1,1 @@
+Formation: Radical de [[Futur Simple]] et le Terminnent de [[Imparfait]]

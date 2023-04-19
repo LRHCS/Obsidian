@@ -1,0 +1,1 @@
+keine Stoffe und Energie werden zwischen System und Umgebung ausgetauscht

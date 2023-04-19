@@ -1,0 +1,1 @@
+Als **Sieden** bezeichnet man den Übergang vom flüssigen in den gasförmigen Aggregatzustand, als Kondensieren den umgekehrten Übergang vom gasförmigen in den flüssigen Aggregatzustand. Dabei gilt: Wird einer Flüssigkeit Wärme zugeführt, dann geht sie bei der Siedetemperatur in den gasförmigen Aggregatzustand über.

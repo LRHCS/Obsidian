@@ -1,0 +1,2 @@
+![[Pasted image 20220325202237.png]]
+Die oberen braunen Teiler sind Hydrophyll (Wasserliebend).Der grüne Teil ist Hydrophob (Wasserabweisend).Könnte neben Schiffsbau auch zum Aufheben von Öl aus dem Ozean genutzt werden.

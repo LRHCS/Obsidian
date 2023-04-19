@@ -1,0 +1,1 @@
+Es sind Gemisch die man mit Augen die Phasen erkennen kann

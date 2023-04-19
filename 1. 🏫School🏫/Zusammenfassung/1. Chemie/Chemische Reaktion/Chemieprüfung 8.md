@@ -1,0 +1,5 @@
+![[Aktivierungsenergie]]
+![[Reaktionsgeschwindigkeit]]
+![[Autokatalysator]]
+![[Energieminimum - Entropie]]
+![[Enthalpien]]

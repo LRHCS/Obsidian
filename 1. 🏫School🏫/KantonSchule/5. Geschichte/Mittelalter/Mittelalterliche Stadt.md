@@ -1,0 +1,27 @@
+- viele Menschen auf engem Raum
+	- wachsende Bevölkerung
+	- Verkehrsknotenpunkt/Handelspunkte
+- Arbeitsteilung
+- **Handel**, Handwek, nicht nur Landeswirtschaft 
+	- neben dem Flüsse, Gute Handels- und Transportsroute, weniger Energie
+- politischorganisatorische Einheit
+- Selbstverwaltung
+	- **Die Mauer rund herum bauen, stadt entsteht**
+	- **Stadtrecht**
+		- von könig oder Landesherr
+	- Marktrecht
+- Mehr Freiheit als die Kolonen(Bauern)
+	- deswegen kommen viele Bauern in den Stadt
+		- Stadtluft macht frei
+		- Wenn ein Bauer ein Jahr verloren ist dann ist er frei
+- Im mitter des Stadt steht Kirche, Klöstern
+	- Marktplatz
+	- Die reichen wohnen in die Mitte, ärmere am Rand beim Mauer
+- Mehr Personen können lesen und schreiben als im Dorf, Schule
+	
+- Gilden und Zünfte
+	- Zusammenschlüsse von Handwerkern ist die Zünfte
+	- Zusammenschlüsse von Kaufleute ist die Gilden
+	- Vorteile
+		- Wirtschaftliches Gut
+		- Soziale sicherheit(Sicherung)

@@ -1,0 +1,3 @@
+Innerhalb eines oder weniger grossen Temperaturbereiches verläuft die untersuchte Lebenserscheinung/Aktivität optimal, bei tiefern oder höheren Temperaturen verschlechtertsie sich immer mehr, bis sie nicht mehr messbar ist
+![[Pasted image 20211121154425.png]]
+Beim **optimium** sind die Enzymaktivität am höchsten, Enzym ist ein Biokatalysator, katalysator ist ein stoff der ein Reaktion einleitet oder beschlieunigt ohne sich dabei selber zu verbrauchen. Enzyme geht schlecht, Wir gehen auch schlecht

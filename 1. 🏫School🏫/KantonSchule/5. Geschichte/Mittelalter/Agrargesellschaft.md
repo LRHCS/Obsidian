@@ -1,0 +1,11 @@
+- Dreifeldwirtschaft
+	- Ein Zelge Wintergetreide , ein Zelge Sommergetreide und die andere bleibt brach. So konnten die Felder erholen und neue Nährstoffe bilden
+- Agrargesellschaft
+	- Vom Adel beherrscht
+	- Handwerk und Handel spielt eine geringe Rolle
+	- Von Sklaven zu Kolonen
+		- Die Adeligen geben schutz zu die Kolonen und sie müssen für die Adeligen arbeiten
+- Werkzeug
+	- Räder oder Beetpflug
+	- Erfindung Kummets
+		- Die Pferde konnte als Zugtiere eingesetzt werden

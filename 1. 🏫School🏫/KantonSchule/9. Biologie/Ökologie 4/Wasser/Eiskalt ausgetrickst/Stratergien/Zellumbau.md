@@ -1,0 +1,2 @@
+Bei einigen Pflanzen verlagert sich Wasser vom Zellinnern in die Zell zwischenräume. Hier kann der Frost kaum schaden anrichten. Die Entwässerung sorgt in den Zellen auch für eine höhere konzentration von Zucker und Zuckeralkoholen die als starke Frostschutzmittel wirken
+Ein Extremfall der Verdichtung von Zellflüssigkeit ist die **Vitrifikation**, also Verglasung. Man findet sie etwa in den Samen der Erde. 

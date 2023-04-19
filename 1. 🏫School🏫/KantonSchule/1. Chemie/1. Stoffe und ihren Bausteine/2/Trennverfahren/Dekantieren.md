@@ -1,0 +1,2 @@
+![[Pasted image 20211120120621.png]]
+Der Ausdruck **Dekantieren** (franz.: décanter) bezeichnet den Prozess der Abtrennung eines ungelösten Stoffes aus einem Flüssigkeitsgemisch. Nach einer mehr oder weniger langen Ruhezeit in einem Gefäß trennen sich Feststoffe durch Absetzen, das Dekantat.

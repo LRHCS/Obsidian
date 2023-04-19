@@ -1,0 +1,5 @@
+gleichwarme Tiere
+- Die gleichwarme Tiere haben sich von der Umgebungstemperatur empanziert. Dadurch bleibt die Aktivität innerhalb der Reaktionsbreite annähernd konstant.
+- ![[Pasted image 20211025202320.png]]
+
+Als **gleichwarmes Tier** oder **homoiothermes Tier** (von [altgriechisch](https://de.wikipedia.org/wiki/Altgriechische_Sprache "Altgriechische Sprache") ὁμοῖος homoîos, deutsch ‚ähnlich‘; [altgriechisch](https://de.wikipedia.org/wiki/Altgriechische_Sprache "Altgriechische Sprache") θερμός thermós, deutsch ‚warm‘; auch **homöotherm**) oder [endothermes Tier](https://de.wikipedia.org/wiki/Gleichwarmes_Tier#cite_note-1) werden in der [Zoologie](https://de.wikipedia.org/wiki/Zoologie "Zoologie") Tiere ([Vögel](https://de.wikipedia.org/wiki/V%C3%B6gel "Vögel"), [Säugetiere](https://de.wikipedia.org/wiki/S%C3%A4ugetiere "Säugetiere")) bezeichnet, die ihre [Körperkerntemperatur](https://de.wikipedia.org/wiki/K%C3%B6rperkerntemperatur "Körperkerntemperatur") unabhängig von der Umwelttemperatur auf einen konstanten Temperaturwert regulieren können.

@@ -1,0 +1,2 @@
+- Sie wachsen auf der Rindem den Ästen und Astgabeln von anderen Pflanzen, vor allem von Bäumen
+- Sie entziehen den besiedelten Pflanzen weder Wasser noch Nährstoffe und sind daher keine Parasiten

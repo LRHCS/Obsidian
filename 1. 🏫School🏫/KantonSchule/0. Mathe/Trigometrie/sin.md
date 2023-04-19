@@ -1,0 +1,1 @@
+$$sin(\alpha) = \frac{Gegenkatheten}{Hypotthenuse}$$

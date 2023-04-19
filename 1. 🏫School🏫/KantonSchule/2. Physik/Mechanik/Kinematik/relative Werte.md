@@ -1,0 +1,1 @@
+Wenn die Zahlenpfeile nicht von Ursprung ausgeht, dann nennen wir es als relative Werte

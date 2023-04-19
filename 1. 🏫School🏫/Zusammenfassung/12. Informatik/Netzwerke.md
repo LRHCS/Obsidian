@@ -1,0 +1,33 @@
+# Adressen
+- Aufbau von IPv4-Adressen kennen.
+	- **xxx.xxx.xxx.xxx(1-255)**
+- Länge von IPv6-Adressen kennen (Anzahl Bits).
+	- **128 Bit**
+	- (IPv4 ist **32 Bit**)
+- Berechnen, wie viele IPv4-Adressen oder IPv6-Adressen theoretisch möglich wären.
+	- **2^32** für IPv4
+	- **2^128** für IPv6
+- Begriffe Netzadresse, Broadcastadresse, Hostteil und Subnetzmaske verstehen und erklären.
+	- ![[Pasted image 20230119173833.png]]
+	- das ganze ist Broadcastadresse
+	- mit dem Subnetzmaske kann man **die Netzadresse von Broadcastadresse auflösen**
+		- 192.168.2.2 mit Subnetzmaske 255.255.255.0
+		- 192.168.2.0 ist die Netzadresse
+- Wissen, wie gross A-, B- und C-Netze sind und daraus die Subnetzmaske ableiten.
+	- ![[Pasted image 20230119174305.png]]
+- Begriff und Eigenschaften der MAC-Adresse kennen und wissen, wozu sie benötigt wird.
+	- MAC-Adresse ist wie eine **Identifikation** von deine Komputer, das ist **einzigartig**.
+	- Anhand dieser Nummer werden über die Verbindung laufende Daten den Geräten zugeordnet.
+- Abkürzungen ARP (Adress Resolution Protocol), IP (Internet Protocol) und MAC (Media Access Control) auflösen. 
+- Werkzeuge ipconfig, ping und arp kennen und wissen, welche Informationen sie liefern, bzw. wann sie eingesetzt werden.(Tips: Wenn ihr die Funktionen vergisst, könnt ihr in cmd z.B.: **ipconfig -h** eingeben, es zeigt alle Informationen )
+	- Mit ipconfig zeigt man die **MAC-Adresse, IP-Adresse und die Subnetzmaske.**
+	- Mit ping schickt man **anfrage** zu andere IP-Adresse. Wenn sie beantwortet, dann 2lebt" sie, andernfalls ist sie "tot" oder die Ping-Anfrgae wurde geblockt
+	- Mit arp kann man die **Arp-Tabelle** zeigen, es zeigt alle MAC-Adressen und die IP-Adressen die mit MAC verbunden ist.
+# Aufbau von Netzwerken
+- Begriff und Funktionsweise eines Gateways (Standardgateways) kennen.
+	- Das Wort Gateway bezeichnet in der Informatik eine Komponente, welche zwischen zwei Systemen eine Verbindung herstellt. Ein IT-System, das seinen Kommunikationspartner nicht direkt kennt, wendet sich an sein Gateway.
+	- Es zeigt die** nächste Schritte **von einer IP-Adresse(nach wo es gehen soll)
+- Begriff und Funktionsweise eines DNS-Servers kennen
+	- **Domain Name System**
+	- Es **verbindet eine IP-Addresse mit einem Domain**(z.B. kantisargans.ch)
+	- Wenn man etwas sucht, die Anfrage wurde zuerst zur DNS-Server geschickt, es schickt die IP-Addresse die mit diesem Domain verbunden ist, dann kann man die Webseite besuchen

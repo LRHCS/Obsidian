@@ -1,0 +1,1 @@
+Die Ökonomen sprechen wir  von Bedarf, wenn sie sich die Wünsche des Einzeln entsprechend der persönlichen [[Kaufkraft]] auf konkreten Angeboten richten

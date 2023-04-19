@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Chemie","id":"8db092987f00e8c4","x":-5,"y":280,"width":204,"height":60},
+		{"type":"text","text":"## Matter","id":"0171279ca233d480","x":249,"y":281,"width":160,"height":60},
+		{"type":"text","text":"## Bounding","id":"019b7c035a32fa67","x":-310,"y":153,"width":209,"height":60},
+		{"type":"text","text":"## Energie","id":"7b34a1a941e772fd","x":-310,"y":401,"width":186,"height":50},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Stoffe und ihren Bausteine/Energien Kraft Temperatur.md","id":"2d6bd7bc8b7843e1","x":-946,"y":377,"width":457,"height":98},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Stoffe und ihren Bausteine/Elemente.md","id":"e6f26491f864980f","x":523,"y":118,"width":215,"height":95},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Stoffe und ihren Bausteine/Molmasse Stoffmengenkonzentration.md","id":"708da55833bfd313","x":523,"y":262,"width":612,"height":98},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Stoffe und ihren Bausteine/Ordnungszahl Modell Radiotaktivität Licht.md","id":"5d3f5666b7b87ad1","x":523,"y":401,"width":677,"height":97},
+		{"type":"file","file":"xxx. 🖼️/img 5/Pasted image 20221230152901.png","id":"8417303643db2512","x":-554,"y":-955,"width":1415,"height":796},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Stoffe und ihren Bausteine/Bindungen Avogadro.md","id":"a81604061ff4a845","x":-857,"y":21,"width":368,"height":97},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Stoffe und ihren Bausteine/Zwischenmolekulare Kräfte.md","id":"add710425efe6927","x":-946,"y":193,"width":451,"height":87},
+		{"type":"text","text":"","id":"41cea1210f8c73fa","x":-851,"y":-642,"width":250,"height":60},
+		{"id":"2a85c244f55c7344","x":-5,"y":512,"width":188,"height":60,"type":"text","text":"## Reaktion"},
+		{"id":"a9941b920aad48d0","x":-101,"y":700,"width":400,"height":60,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Chemische Reaktion/Chemieprüfung 8.md"},
+		{"id":"993740157e259601","x":523,"y":9,"width":400,"height":61,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Stoffe und ihren Bausteine/Salze-Metalle.md"}
+	],
+	"edges":[
+		{"id":"89c1cb54187cbb1b","fromNode":"019b7c035a32fa67","fromSide":"right","toNode":"8db092987f00e8c4","toSide":"left"},
+		{"id":"7d8098926d4dde09","fromNode":"a81604061ff4a845","fromSide":"right","toNode":"019b7c035a32fa67","toSide":"left"},
+		{"id":"2527d43814a751c8","fromNode":"0171279ca233d480","fromSide":"left","toNode":"8db092987f00e8c4","toSide":"right"},
+		{"id":"491ba9756ff02a77","fromNode":"7b34a1a941e772fd","fromSide":"right","toNode":"8db092987f00e8c4","toSide":"left"},
+		{"id":"6cbd45c97681b524","fromNode":"2d6bd7bc8b7843e1","fromSide":"right","toNode":"7b34a1a941e772fd","toSide":"left"},
+		{"id":"e7818bf153d04a58","fromNode":"e6f26491f864980f","fromSide":"left","toNode":"0171279ca233d480","toSide":"right"},
+		{"id":"cb2785a15a5502ca","fromNode":"708da55833bfd313","fromSide":"left","toNode":"0171279ca233d480","toSide":"right"},
+		{"id":"b74824c2be846556","fromNode":"5d3f5666b7b87ad1","fromSide":"left","toNode":"0171279ca233d480","toSide":"right"},
+		{"id":"0d44b5eb00b36db6","fromNode":"add710425efe6927","fromSide":"right","toNode":"019b7c035a32fa67","toSide":"left"},
+		{"id":"9f5501be2db6a32d","fromNode":"add710425efe6927","fromSide":"right","toNode":"7b34a1a941e772fd","toSide":"left"},
+		{"id":"823260768e8658ee","fromNode":"2d6bd7bc8b7843e1","fromSide":"right","toNode":"7b34a1a941e772fd","toSide":"left"},
+		{"id":"f5b6491118525f7f","fromNode":"8db092987f00e8c4","fromSide":"bottom","toNode":"2a85c244f55c7344","toSide":"top"},
+		{"id":"52228ed24b9b2cd9","fromNode":"2a85c244f55c7344","fromSide":"bottom","toNode":"a9941b920aad48d0","toSide":"top"},
+		{"id":"724552c2d4556ce4","fromNode":"0171279ca233d480","fromSide":"right","toNode":"993740157e259601","toSide":"left"}
+	]
+}

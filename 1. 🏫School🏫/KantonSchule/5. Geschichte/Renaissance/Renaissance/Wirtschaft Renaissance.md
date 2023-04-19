@@ -1,0 +1,22 @@
+# Handel
+ ![[Pasted image 20230102105844.png]]
+- Fernkaufleute
+- Handelshäuser
+	- Diesbach und Watt
+- Bankgesellschaft
+	- Fugger(Augsburg)
+		- durch Handel mit Textilien und Gewürzen
+		- Kredit für die Habsburgen
+			- Schürfrechte in Silber- und Kupferminen
+				- einziger Anbieter den europäischen Kupfermarkt
+	- Medici(Florence)
+- Grosse Handelsstadt wird zu Motoren des Fernhandels
+	- Genua
+	- Venedig
+	- Pisa
+	- Mailand
+	- Florenz....
+- Wegen dem Pest ist viele Personen tot. So kauf niemand die Essen, so sank der Preis. 
+	- Wüstung
+	- Sinken Lebensstandard
+	- Die Adeligen verlieren die Naturabgaben

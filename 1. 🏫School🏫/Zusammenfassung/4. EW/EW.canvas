@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"924739999f4cf8ca","x":-1140,"y":-320,"width":494,"height":62,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/4. EW/Einführung BWL_VWL.md"},
+		{"id":"3e1afbd41a6eb449","x":-515,"y":-119,"width":273,"height":60,"type":"text","text":"# Wirtschaft"},
+		{"id":"e1efefdb26e93229","x":-1160,"y":-120,"width":474,"height":61,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/4. EW/Unternehmensmodell.md"},
+		{"id":"aaaa8514de699041","x":-908,"y":60,"width":262,"height":58,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/4. EW/Strategien.md"}
+	],
+	"edges":[
+		{"id":"9b64dab50887964a","fromNode":"3e1afbd41a6eb449","fromSide":"left","toNode":"924739999f4cf8ca","toSide":"right"},
+		{"id":"11a7a422f8718214","fromNode":"e1efefdb26e93229","fromSide":"right","toNode":"3e1afbd41a6eb449","toSide":"left"},
+		{"id":"4f0305fa4da7c1c1","fromNode":"aaaa8514de699041","fromSide":"right","toNode":"3e1afbd41a6eb449","toSide":"left"}
+	]
+}

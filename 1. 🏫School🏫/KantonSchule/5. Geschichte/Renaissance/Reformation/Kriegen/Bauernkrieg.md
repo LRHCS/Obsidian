@@ -1,0 +1,27 @@
+- 3 Lösungen für die Bauernunruhen
+	- Nachlässige Erfüllen
+	- **Abwanderung**
+		- Stadtluft macht frei
+	- **Bewaffneter Widerstand**
+- Die Bauern bekommen immer weniger Freiheit, immer mehr abgaben, Gerichtsbarkeit
+- Aufstand ganzen südliche HRE(Bavaria, Nordschweiz, Norditalien, Elsass)
+	- "**göttliches Recht**" statt "guten alten Recht"
+	- "**Zwölf Artickeln**" beeinflusst von Ulrich Zwingli wurde zu Manifesto dieses Aufstands  
+- Ziel: **weltliche Ordnung soll in Harmonie mit dem Wort Gottes existieren**
+- Die Bauern(Evangelium) verlieren
+- Folgt einer **Neugestaltung des Gottesdienstes**
+- Der Kaiser gewinnt den Krieg aber politisch noch nicht. 
+- An der **Reichstag zu Speyer** 1529 gabs ein **Prostest** von fünf lutheranische Landesfürsten + 14 Reichsstädte
+- An der **Reichstag zu Augsburg** 1530
+	- Der Kaiser versucht an diesem Tag den **Problem(Konfession(Glaubensrichtung)) zu beenden**
+		- Die Protestanten legen "**Confessio Augustana**" vor
+			- gemeinsamen Grundlagen des Glaubens
+			- von der römische Kirche trennen
+				- Die Loslösung von der römische Kirche ist eine Angriff auf die kaiserliche Zentralgewalt
+			- Lösung: Jeder Widerstand als Landfriedensbruch betrachtet
+			- Folge: Kriegsansage von die Protestanten: Schmalkaldischen Bund
+				- 1546/47
+				- Der Kaiser Gewinnt
+		- Immer mehr Reformierten
+	- Kommt zur **Augsburger Religionsfrieden 1555**
+		- **wessen Herrschaft, dessen Glauben(cuius regio, eius religio)** oder auswandern

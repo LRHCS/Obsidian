@@ -1,0 +1,2 @@
+-  Ist-Wert > Soll-Wert
+- Wir schwitzt um die Aggregatszustände zu wechsel braucht es Energie, die von den Körper entgegen wird.

@@ -1,0 +1,13 @@
+
+- Feststoff
+	- starre Gestalt
+	- nicht komprimierbar
+	- bestimmte Volumen
+- Flüssigkeit
+	- kein starre Gestalt (nimmt Form des Behälters an)
+	- schwer Komprimierbar
+	- bestimmtes Volumen
+- Gas
+	- kein starre Gestalt(nimmt Form des Behälters an)
+	- leicht Komprimierbar
+	- bestimmtes Volumen

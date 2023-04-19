@@ -1,0 +1,1 @@
+[# OC打光指南！光的情绪和信息？octane打光思路分享 part 1](https://www.bilibili.com/video/BV1w5411Z7aj?spm_id_from=333.851.b_7265636f6d6d656e64.1&vd_source=8f770dbae4bd9741aa555bb473d35466)

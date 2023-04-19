@@ -1,0 +1,1 @@
+Die Erde wandert in ein Jahr auf einer fast kreisförmigen Bahn 1 mal um die Sonne

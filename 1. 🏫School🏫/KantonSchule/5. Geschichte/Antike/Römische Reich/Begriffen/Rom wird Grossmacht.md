@@ -1,0 +1,4 @@
+Während der Ständekämpfe führten die Römer Krieg gegen verschiedene Stämme und Städte auf der italienische Halbinsel und besiegten diese, um 270 v.chr. hat die Römische Reich ganze Mittel- und Süditalien besiegt.
+Er traff nachher Karthago, die schon seit 7 Jahrhundert v. Chr. ein Grossmacht im westlichen Mittelmeer Raum war.
+Ab 264. v.chr. folgten 3 Kriegen zwischen die beiden Grosmächten, die Erste endete erst am 146 v. chr.Sie werden als Punische Kriege bezeichnet(Die Römer nennen die Karthager Punier).Zuerst haben sie nache Osten und Westen verbreitet(Makedonien, König von Syrien und die Griechen).Schliesslich beseitigen die Römer im Jahr 146 v.chr den karthagischen Stadtstatt, vernichteten die Stadt selbst und errichten die neue Provinz Afrika. Der Sieg Roms über Karthago war Meilenstein einer Entwicklung. Die Römer übernehmen viel von andere Völkern und entwickelt es weiter
+![[Pasted image 20211206123014.png]]
