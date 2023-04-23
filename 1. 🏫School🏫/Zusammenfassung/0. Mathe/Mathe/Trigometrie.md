@@ -1,6 +1,6 @@
 #Prüfung #Mathe 
 
-![[2. 💻Tech💻/1. GEEK/0. Math/❗Calculus/Calculus 1/Calculus 1]]
+![[2. 💻Tech💻/1. CS/0. Math/❗Calculus/Calculus 1/Calculus 1]]
 
 
 # Definition

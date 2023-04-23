@@ -1,19 +1,19 @@
 {
 	"nodes":[
-		{"id":"f9831a3284f4f5fb","x":144,"y":83,"width":137,"height":60,"type":"text","text":"# School"},
-		{"id":"82f7c5e2e2327ff7","x":-867,"y":-317,"width":400,"height":400,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Chemie.canvas"},
-		{"id":"4c0d188b86f1d093","x":-245,"y":88,"width":299,"height":50,"type":"text","text":"## Naturwissenschaften"},
-		{"id":"ddee5547e7f4de15","x":-997,"y":143,"width":530,"height":457,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/6. Biologie/Biologie.canvas"},
-		{"id":"af635139e1ba286e","x":428,"y":83,"width":250,"height":60,"type":"text","text":"## Sprache/Literales"},
-		{"id":"c075ba396afb2b0f","x":-445,"y":-717,"width":400,"height":400,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe.canvas"},
-		{"id":"c4b678058e61834a","x":-445,"y":639,"width":400,"height":400,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/2. Physik/Physik.canvas"},
-		{"id":"804a4f9ff4ad55c1","x":157,"y":399,"width":124,"height":60,"type":"text","text":"## Others"},
-		{"id":"5a1fbe7bd097f469","x":854,"y":-143,"width":151,"height":52,"type":"text","text":"Deutsch"},
-		{"id":"3b2e67a84a99390b","x":854,"y":-44,"width":151,"height":60,"type":"text","text":"Philosophie"},
-		{"id":"29dc43f2e8d3a168","x":854,"y":53,"width":122,"height":60,"type":"text","text":"English"},
-		{"id":"d98786495903adec","x":867,"y":179,"width":125,"height":50,"type":"text","text":"Französisch"},
-		{"id":"556a63518bfa3643","x":399,"y":639,"width":400,"height":400,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Geschichte.canvas"},
-		{"id":"4a0c0ac66b6c5ddc","x":-37,"y":639,"width":194,"height":60,"type":"text","text":"### Geographie"}
+		{"type":"text","text":"## Others","id":"804a4f9ff4ad55c1","x":136,"y":399,"width":153,"height":60},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/6. Biologie/Biologie.canvas","id":"ddee5547e7f4de15","x":-1137,"y":143,"width":530,"height":457},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/1. Chemie/Chemie.canvas","id":"82f7c5e2e2327ff7","x":-1007,"y":-317,"width":400,"height":400},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe.canvas","id":"c075ba396afb2b0f","x":-585,"y":-717,"width":400,"height":400},
+		{"type":"text","text":"## Naturwissenschaften","id":"4c0d188b86f1d093","x":-433,"y":88,"width":392,"height":50},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/2. Physik/Physik.canvas","id":"c4b678058e61834a","x":-680,"y":680,"width":400,"height":400},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/8. Geografie/Geographie.canvas","id":"a5b108b6a247d960","x":-187,"y":680,"width":400,"height":359},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Geschichte.canvas","id":"556a63518bfa3643","x":253,"y":680,"width":400,"height":359},
+		{"type":"text","text":"# School","id":"f9831a3284f4f5fb","x":119,"y":83,"width":187,"height":60},
+		{"type":"text","text":"## Sprache/Literales","id":"af635139e1ba286e","x":540,"y":83,"width":319,"height":60},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/3. Philosophie/Philosophie.canvas","id":"7877ac3e6fc130b0","x":1120,"y":-180,"width":400,"height":400},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/10. Deutsch/Deutsch.canvas","id":"ddfaa56e002b6274","x":1125,"y":-620,"width":400,"height":400},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/9. Französisch/Französisch.canvas","id":"e5873e939e4aee94","x":1120,"y":880,"width":400,"height":400},
+		{"id":"4806e2f1d458c4ce","x":1125,"y":340,"width":400,"height":400,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/7. English/English.canvas"}
 	],
 	"edges":[
 		{"id":"26aa82ea41692c69","fromNode":"4c0d188b86f1d093","fromSide":"right","toNode":"f9831a3284f4f5fb","toSide":"left"},
@@ -23,11 +23,11 @@
 		{"id":"5eea3f407874e605","fromNode":"c4b678058e61834a","fromSide":"top","toNode":"4c0d188b86f1d093","toSide":"bottom"},
 		{"id":"5ed4001901d854de","fromNode":"af635139e1ba286e","fromSide":"left","toNode":"f9831a3284f4f5fb","toSide":"right"},
 		{"id":"b5f5a71904f6d316","fromNode":"804a4f9ff4ad55c1","fromSide":"top","toNode":"f9831a3284f4f5fb","toSide":"bottom"},
-		{"id":"f58105d3e8153c61","fromNode":"5a1fbe7bd097f469","fromSide":"left","toNode":"af635139e1ba286e","toSide":"right"},
-		{"id":"af4f60dd86cccd5a","fromNode":"3b2e67a84a99390b","fromSide":"left","toNode":"af635139e1ba286e","toSide":"right"},
-		{"id":"75e3f38e77fc1d42","fromNode":"29dc43f2e8d3a168","fromSide":"left","toNode":"af635139e1ba286e","toSide":"right"},
-		{"id":"e0c3cf18b1c18bd5","fromNode":"d98786495903adec","fromSide":"left","toNode":"af635139e1ba286e","toSide":"right"},
 		{"id":"ffbcbf4979679588","fromNode":"556a63518bfa3643","fromSide":"top","toNode":"804a4f9ff4ad55c1","toSide":"bottom"},
-		{"id":"c1d2f06c592d09b1","fromNode":"4a0c0ac66b6c5ddc","fromSide":"top","toNode":"804a4f9ff4ad55c1","toSide":"bottom"}
+		{"id":"63ac275e2c6481cc","fromNode":"7877ac3e6fc130b0","fromSide":"left","toNode":"af635139e1ba286e","toSide":"right"},
+		{"id":"7171a729d79b3373","fromNode":"a5b108b6a247d960","fromSide":"top","toNode":"804a4f9ff4ad55c1","toSide":"bottom"},
+		{"id":"13453a4919cc01bd","fromNode":"af635139e1ba286e","fromSide":"right","toNode":"ddfaa56e002b6274","toSide":"left"},
+		{"id":"8c82c38cf1443a7b","fromNode":"e5873e939e4aee94","fromSide":"left","toNode":"af635139e1ba286e","toSide":"right"},
+		{"id":"1865d2120fc5f9ff","fromNode":"4806e2f1d458c4ce","fromSide":"left","toNode":"af635139e1ba286e","toSide":"right"}
 	]
 }

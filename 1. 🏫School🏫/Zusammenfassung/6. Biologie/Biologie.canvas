@@ -12,7 +12,7 @@
 		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/6. Biologie/Pflanzen/Zellatmung + Wasser.md","id":"500fc5a5fe6e4a22","x":-707,"y":157,"width":373,"height":87},
 		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/6. Biologie/Pflanzen/Fotosynthese.md","id":"a955cd4cc3ffc186","x":-632,"y":28,"width":247,"height":93},
 		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/6. Biologie/Pflanzen/Temperatur.md","id":"7207576a8a3ba6f7","x":-632,"y":272,"width":223,"height":81},
-		{"id":"b5cdf5fda499b23e","x":31,"y":-2,"width":277,"height":60,"type":"text","text":"# Physologie"}
+		{"type":"text","text":"# Physologie","id":"b5cdf5fda499b23e","x":31,"y":-2,"width":277,"height":60}
 	],
 	"edges":[
 		{"id":"979ec4b5c2b5b9c9","fromNode":"500fc5a5fe6e4a22","fromSide":"right","toNode":"c91dec14878bc0ec","toSide":"left"},

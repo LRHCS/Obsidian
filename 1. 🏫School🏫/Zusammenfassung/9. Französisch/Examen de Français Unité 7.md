@@ -1,2 +1,2 @@
 # Grammaire
-![[Plus-que-parfait(Plusquamperfekt)]]
+![[Plus-que-parfait]]
