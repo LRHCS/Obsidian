@@ -1,0 +1,1 @@
+uses the Mahatten distance, it represents the distance from a state to the goal
