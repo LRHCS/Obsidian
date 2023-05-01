@@ -16,10 +16,11 @@
 		{"type":"text","text":"la comparaison","id":"0a098de4af4e41b2","x":632,"y":265,"width":250,"height":60},
 		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 6/Les dégrés del'adjectif et la comparaison.md","id":"b0a97c292201bfca","x":980,"y":263,"width":830,"height":62},
 		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 8/Imperatif.md","id":"4daadaccf8c2dc38","x":995,"y":72,"width":400,"height":71},
-		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 5/Conditionnel Présent.md","id":"f0185b898dc3b676","x":1466,"y":-203,"width":469,"height":70},
 		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 7/Plus-que-parfait.md","id":"f9ecc01aeb597f98","x":1466,"y":-359,"width":383,"height":62},
-		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 3/Futur Simple.md","id":"87245e9b4855ed73","x":1466,"y":-279,"width":400,"height":59},
-		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 2/Imparfait.md","id":"366c9c6eb54a56b0","x":1466,"y":-438,"width":400,"height":50}
+		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 8/Conditionnel Passé.md","id":"e1526bb4897cbf7d","x":1466,"y":-117,"width":438,"height":59},
+		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 5/Conditionnel Présent.md","id":"f0185b898dc3b676","x":1466,"y":-195,"width":469,"height":55},
+		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 3/Futur Simple.md","id":"87245e9b4855ed73","x":1466,"y":-273,"width":400,"height":50},
+		{"type":"file","file":"1. 🏫School🏫/KantonSchule/8. Französisch/Unit 2/Imparfait.md","id":"366c9c6eb54a56b0","x":1466,"y":-433,"width":400,"height":50}
 	],
 	"edges":[
 		{"id":"d6ff07cf945c84d4","fromNode":"2eae8b13e1352d16","fromSide":"right","toNode":"ec1d4f2ca67f8a49","toSide":"left"},
@@ -40,6 +41,7 @@
 		{"id":"fac48f427d6e2b99","fromNode":"f50d507c0aecb591","fromSide":"right","toNode":"f9ecc01aeb597f98","toSide":"left"},
 		{"id":"8d512caa3546ab76","fromNode":"65b5dfb8ba0a0726","fromSide":"right","toNode":"f0185b898dc3b676","toSide":"left"},
 		{"id":"7f8828162dbd9533","fromNode":"c0c56a549e475abc","fromSide":"right","toNode":"87245e9b4855ed73","toSide":"left"},
-		{"id":"d7b7d1bd1ce21c07","fromNode":"fea0e9490301520c","fromSide":"right","toNode":"366c9c6eb54a56b0","toSide":"left"}
+		{"id":"d7b7d1bd1ce21c07","fromNode":"fea0e9490301520c","fromSide":"right","toNode":"366c9c6eb54a56b0","toSide":"left"},
+		{"id":"6b7e27349bbb11e2","fromNode":"c8432df6cc175920","fromSide":"right","toNode":"e1526bb4897cbf7d","toSide":"left"}
 	]
 }
