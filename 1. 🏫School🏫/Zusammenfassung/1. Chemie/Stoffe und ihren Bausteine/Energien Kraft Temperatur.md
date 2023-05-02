@@ -11,7 +11,7 @@
 - Ein spontane Vorgang wird dann als spontane Vorgang bezeichnet, wenn er **ohne Aktivierung bei Raumtemperatur abläuft**
 
 ## Definition einer Kraft
-![[1. 🏫School🏫/KantonSchule/1. Chemie/1. Stoffe und ihren Bausteine/2/Kräfte/Kräfte]]
+![[1. 🏫School🏫/Notizen/1. Chemie/1. Stoffe und ihren Bausteine/2/Kräfte/Kräfte]]
 
 ## Definition Gravitationkraft
 

@@ -11,5 +11,12 @@ bei Mond **1.62N/kg**
 $$F = m * a$$
 $$F = m * g(Ortsfaktor)$$
 
-# Fallkraft
-Jede Objekt hat eine Beschleunigung von 9.81m/s^2(g)
+# Fallkraft(g)
+Jede Objekt hat eine Beschleunigung von 9.81m/s^2
+
+
+# Kraft
+$$F = m * a$$
+
+# Reibungskraft
+$$Fr = \mu r * m * g = \mu r * F$$
