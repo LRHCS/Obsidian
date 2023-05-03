@@ -2,7 +2,6 @@
 	"nodes":[
 		{"type":"text","text":"# Arts","id":"44fb0d3f89a5d7db","x":-120,"y":20,"width":140,"height":60},
 		{"type":"text","text":"Modelling","id":"188f25f8e989f51b","x":187,"y":-467,"width":250,"height":60},
-		{"type":"text","text":"Envirement","id":"d803e4c55aa91bf8","x":567,"y":-653,"width":250,"height":60},
 		{"type":"text","text":"Objects","id":"45b4de4ca5a571b7","x":562,"y":-467,"width":250,"height":60},
 		{"type":"text","text":"Photograph","id":"92956dcfb0ddf9c8","x":193,"y":21,"width":167,"height":60},
 		{"type":"text","text":"Photos","id":"945335c09f8f6565","x":472,"y":144,"width":250,"height":60},
@@ -11,12 +10,13 @@
 		{"type":"text","text":"Beats","id":"65068e4077399d4d","x":472,"y":572,"width":250,"height":60},
 		{"type":"text","text":"Words","id":"5db6979eedd7cc5c","x":472,"y":280,"width":250,"height":60},
 		{"type":"text","text":"Person","id":"0be483c2897a14f5","x":560,"y":-220,"width":250,"height":60},
-		{"type":"text","text":"C4D","id":"1346d6d3e119f0d5","x":961,"y":-407,"width":250,"height":60},
-		{"type":"text","text":"ZBrush","id":"09e582f3ac4b4b66","x":961,"y":-246,"width":250,"height":60},
-		{"id":"4d186e71b7ea992b","x":960,"y":-324,"width":250,"height":60,"type":"text","text":"Maya"},
-		{"type":"text","text":"Reality Capture","id":"09a80e1edb68b204","x":961,"y":-797,"width":250,"height":60},
-		{"type":"text","text":"Blender","id":"ecdf9336173f6a5e","x":961,"y":-586,"width":250,"height":60},
-		{"type":"text","text":"Fusin360","id":"400726ea6b142f13","x":961,"y":-493,"width":250,"height":60}
+		{"type":"text","text":"ZBrush","id":"09e582f3ac4b4b66","x":961,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"Maya","id":"4d186e71b7ea992b","x":960,"y":-331,"width":250,"height":60},
+		{"type":"text","text":"Blender","id":"ecdf9336173f6a5e","x":961,"y":-593,"width":250,"height":60},
+		{"type":"text","text":"C4D","id":"1346d6d3e119f0d5","x":961,"y":-414,"width":250,"height":60},
+		{"type":"text","text":"Fusin360","id":"400726ea6b142f13","x":961,"y":-500,"width":250,"height":60},
+		{"type":"text","text":"Reality Capture","id":"09a80e1edb68b204","x":960,"y":-713,"width":250,"height":60},
+		{"type":"text","text":"Envirement","id":"d803e4c55aa91bf8","x":562,"y":-713,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"06830e52ccbee2b2","fromNode":"44fb0d3f89a5d7db","fromSide":"right","toNode":"188f25f8e989f51b","toSide":"left"},
