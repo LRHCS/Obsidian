@@ -2,6 +2,11 @@
 # Syntax 1
 ## Satzglieder
 ![[Pasted image 20230504080821.png | 500]]
+## Apposition
+enge
+- ohne Komma, zwei Nomen steht eng zusammen
+lockere
+- Bei einer Apposition steht die Subject im Nebensatz in den gleichen Fall wie in der Hauptsatz
 ## Kongruenz
 - mit **und** ist es Plural
 - mit **oder** ist es einzahl

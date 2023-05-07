@@ -2,13 +2,21 @@
 	- eingeleitet durch Konjunktion
 	- inhaltliche analyse
 		- temporal 
+			- Zeit, Dauer
 		- modal 
+			- Art und Weise
 		- kausal 
-		- konditional 
+			- Grund
+		- konditional
+			- Bedingung,Voraussetzung
 		- konsekutiv 
+			- Folge
 		- konzessiv 
+			- Einräumung
 		- adversativ 
+			- Gegensatz
 		- final
+			- Zweck
 1. Pronominalsatz
 	- eingeleitet durch Relativpronomen
 2. Indirekter Fragesatz
