@@ -5,6 +5,7 @@
 ## Apposition
 enge
 - ohne Komma, zwei Nomen steht eng zusammen
+
 lockere
 - Bei einer Apposition steht die Subject im Nebensatz in den gleichen Fall wie in der Hauptsatz
 ## Kongruenz

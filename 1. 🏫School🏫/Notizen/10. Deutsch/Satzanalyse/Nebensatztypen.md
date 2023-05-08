@@ -8,7 +8,6 @@
 		- kausal 
 			- Grund
 		- konditional
-<<<<<<< Updated upstream
 			- Bedingung,Voraussetzung
 		- konsekutiv 
 			- Folge
@@ -18,17 +17,6 @@
 			- Gegensatz
 		- final
 			- Zweck
-=======
-			- Bedingng, Voraussetzung
-		- konsekutiv 
-			- Folge
-		- konzessiv 
-			- Einräumung, Vorwand
-		- adversativ 
-			- Gegensatz
-		- final
-			- Zweck, Ziel
->>>>>>> Stashed changes
 1. Pronominalsatz
 	- eingeleitet durch Relativpronomen
 2. Indirekter Fragesatz
