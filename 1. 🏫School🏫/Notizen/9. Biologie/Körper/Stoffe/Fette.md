@@ -1,0 +1,1 @@
+Eine Seite hydrophil/lipophob, die andere hydrophob/lipophil
