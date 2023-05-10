@@ -1,0 +1,1 @@
+In the modern world, the masculine and the femine essence is becoming 50/50. But the problem is, masculine and feminine are like two poles, they are pulling each other
