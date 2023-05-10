@@ -1,0 +1,17 @@
+- Subjektive Rechte(rights)
+	- Berechtigung eines Einzelnen, etwas Bestimmtes zu tun bzw. unterlassen
+- Objektives Recht(law)
+	- Summe der Rechtsformen
+	- die ganze Rechtsystem
+- positives Recht(positive law)
+	- vom Menschen gesetzte Recht in Gesetzbuch
+- Naturrecht
+	- Die Rechte die universell gilt
+- positive Rechte
+	- Berechtigung(26)
+- negative Rechte
+	- Freiheit etwas zu tun(4, 15.2, 16.1, 5, 3)
+- legale Rechte
+	- law that protect people
+- moralische Rechte
+	- Das Recht auf das sich eine moralische Forderung stützt
