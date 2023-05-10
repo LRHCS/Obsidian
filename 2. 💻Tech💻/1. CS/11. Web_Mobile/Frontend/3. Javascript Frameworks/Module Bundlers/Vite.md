@@ -2,7 +2,7 @@
 
 To init a Vite Project, we can type 
 ```
-npm init @vitejs/app
+npm create vite@latest
 ```
 and then we can choose which framework we're using
 
