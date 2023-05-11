@@ -13,7 +13,7 @@
 	- 1% Blutplättchen
 		- Wund heilen
 
-# Typen
+# Blutzellen
 ## Erythozyten
 - Rote Blutkörperchen
 - Sauerstoff transport aus der Lunge an die andere Körperteile und Gewebe
@@ -82,3 +82,4 @@
 	-   Verzweigungsprinzip
 	-   Versorgung(O2) und Entsorgung(CO2)(Wir brauchen mehr Blut beim Sport)
 		- Bei Sport treibt es die Zellatmung
+![[Pasted image 20230511192431.png]]

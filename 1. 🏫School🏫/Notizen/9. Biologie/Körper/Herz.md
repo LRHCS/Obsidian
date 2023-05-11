@@ -1,5 +1,5 @@
 ![[Pasted image 20230324194414.png]]
-- Die Blauen sind die Sauerstoffarmen
+	- Die Blauen sind die Sauerstoffarmen
 - Die Roten sind dagegen die Sauerstoffreichen
 
 ![[Pasted image 20230324195148.png | 700]]

@@ -9,10 +9,16 @@
 	- PAL-Werte
 		- ![[Pasted image 20230510214136.png]]
 
+![[Kohlenhydrate(Saccharide)]]
+![[Fette(Lipide)]]
+![[Proteine]]
 # Verdauung
-
+![[Enzyme]]
+![[Verdauungssystem]]
 
 # Blut, Blutkreislauf, Herz
+![[Blut]]
+![[Herz]]
 
 
 # Atmung – Lunge

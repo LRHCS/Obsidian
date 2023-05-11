@@ -8,7 +8,7 @@
 - Die Nahrung wird mit Hilfe der Zähne zerkleinert(mechanische Zerkleinerung)
 - Speichel
 	- **Amylase**(Enzyme die in den **Speicheldrüsen** gebildet wird)
-		- Abbau von Stärke([[Kohlenhydrate]])
+		- Abbau von Stärke([[Kohlenhydrate(Saccharide)]])
 - Die Nahrung Verwandelt in einen **gleitfähigen Nahrungsbrei**
 
 
@@ -19,7 +19,7 @@
 # 3. Magen
 - Verdauung von Proteine
 	- **Salzsäure**
-	- **Pepsin**
+	- **Pepsin**(Verdauungsenzym)
 - Schleimhaut
 	- Hauptzelle
 	- Nebenzelle
@@ -33,12 +33,12 @@
 	- Verdauungssaft aus Gallenblase und Bauchspeicheldrüse **zersetzen die Nahrung in einzelne Bestandteile**
 - Auf dem Weg duch den Dünndarm werden **die Nährstoffe durch Darmwand aufgenommen**
 	- Dünndarm ist etwa 7m lang und hat eine Oberfläche von 40 Quadratmeter(einzelne Zotte)
-- Die Stärke([[Kohlenhydrate]]) wird hier in Dünndarm in Einfachzucker(Amylose) abgebaut
+- Die Stärke([[Kohlenhydrate(Saccharide)]]) wird hier in Dünndarm in Einfachzucker(Amylose) abgebaut
 
 
 # 3.5 Leber
 - Leber produzieren Gallensaft und wurde in Gallenblase gespeichert und bei bedarf in Zwölffingerdarm abgegeben
-- **[[Fette]]**(Lipide) in kleine Tröpfchen zersetzen
+- **[[Fette(Lipide)]]**(Lipide) in kleine Tröpfchen zersetzen
 	- **Fettsäure x,y,z**
 - **Bildung Galle zum Fettabbau**
 - **Abbau Giftstoffen**(Alkohol)
@@ -61,7 +61,6 @@ Umbau von aufgenommenem zu Körpereigenem Fett
 
 
 # 3.5 Niere
-- Harn kommt raus
 - Das Blut waschen, die nicht zu Blut gehört aufnehmen.
 - Filtert Harnstoff aus Blut und bildet Harn
 - Konzentrieren den Harnstoff immer Mehr
