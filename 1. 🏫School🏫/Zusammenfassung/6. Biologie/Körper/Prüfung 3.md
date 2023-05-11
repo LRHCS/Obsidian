@@ -8,9 +8,11 @@
 	- PAL - Werte * Energieumsatz
 	- PAL-Werte
 		- ![[Pasted image 20230510214136.png]]
-
+## Kohlenhydrate
 ![[Kohlenhydrate(Saccharide)]]
+## Fette
 ![[Fette(Lipide)]]
+## Proteine
 ![[Proteine]]
 # Verdauung
 ![[Enzyme]]
@@ -22,3 +24,4 @@
 
 
 # Atmung – Lunge
+![[Atmung]]
