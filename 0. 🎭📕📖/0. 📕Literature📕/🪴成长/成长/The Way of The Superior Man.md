@@ -1,1 +1,16 @@
-In the modern world, the masculine and the femine essence is becoming 50/50. But the problem is, masculine and feminine are like two poles, they are pulling each other
+- Stop Hoping for a Completion of Anything in Life
+	- do whatever you want to do, don't wait
+- Live With an Open Heart Even If It Hurts
+	- Open Body
+		- Straight Posture
+		- Deep Breath
+		- Eye Contact
+- Live As If Your Father Were Dead
+	- Don't show anything off to your dad
+	- Live Free
+	- Don't be burdened by your father
+- Know Your Real Edge and Don't Fake it
+	- Know your fears, and enjoy it, push it and be real with it. Don't fake
+- Always Hold To Your Deepest Realization
+
+29
