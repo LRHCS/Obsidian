@@ -12,5 +12,8 @@
 - Know Your Real Edge and Don't Fake it
 	- Know your fears, and enjoy it, push it and be real with it. Don't fake
 - Always Hold To Your Deepest Realization
-
-29
+	- Find its source(Who are you?)
+- Never Change Your Mind Just to Please a Woman
+	- trust your own wisdom
+- Your Purpose Must Come Before Your Relationship
+	- 
