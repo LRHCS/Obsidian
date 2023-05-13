@@ -40,36 +40,36 @@
 - Leber produzieren Gallensaft und wurde in Gallenblase gespeichert und bei bedarf in Zwölffingerdarm abgegeben
 - **[[Fette(Lipide)]]**(Lipide) in kleine Tröpfchen zersetzen
 	- **Fettsäure x,y,z**
-- **Bildung Galle zum Fettabbau**
-- **Abbau Giftstoffen**(Alkohol)
-- **Abbau roter Blutkörperchen**
-- **Auf und Abbau von Eiweiss**
-- **Abbau von Eiweiss zu Harnstoff**
-- Regulierung des **Zuckerhaushalts**
+- Funktion
+	- Bildung Galle zum Fettabbauin Dünndarm
+	- Abbau Giftstoffen(Alkohol),roter Blutkörperchen und körper eigene Abfallstoffe
+	- Auf und Abbau von Eiweiss zu Aminosäure
+		- Ein Teil wird Aufgenommen
+		- Ein Teil dient der Energiebereitstellung
+		- anfallenden Aminogruppen wird in Leberzellen Harstoff hergestellt
+	- Regulierung des Zuckerhaushalts
 
 -   Baut Mehrfachzucker wenn Blutzucker zu tief ist. Glykogen(kann in einzeln Zucker abbauen)
--   Wenn es zu viel gibt, kann traubenzucker als Glykogen in Leber speichern, insulin baut zucker in glykogen
+-   Wenn es zu viel gibt, kann Traubenzucker(Glukose) als Glykogen in Leber speichern, insulin baut zucker in glykogen
 
 Umbau von aufgenommenem zu Körpereigenem Fett
 
+# 3.5 Niere
+- Das Blut waschen, die nicht zu Blut gehört aufnehmen.
+- Konzentrieren den Harnstoff immer Mehr
+- **1.5L**
+- Funktion
+	- Entgiftung
+	- Mineralhaushalt
+	- Basen Haushalts
+	- Bildung von roten Körperchen
+	-  Filtert Harnstoff aus Blut und bildet Harn
 
 # 3.5 Bauchspeicheldrüse
 - **Vorstufen von Enzymen hergestellt** und in Zwölffingerdarm abgeben
 	- Eiweisse zersetzen
 	- Amylase(Stärke abbauende)
 	- Lipase(Fette abbauende)
-
-
-# 3.5 Niere
-- Das Blut waschen, die nicht zu Blut gehört aufnehmen.
-- Filtert Harnstoff aus Blut und bildet Harn
-- Konzentrieren den Harnstoff immer Mehr
-- **1.5L**
-- Entgiftung
-- Mineralhaushalt
-- Basen Haushalts
-- Bildung von roten Körperchen
-
 
 # 4. Dickdarm
 - Wasser und Salzen aus dem Nahrungsbrei gewinnen

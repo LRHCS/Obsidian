@@ -78,8 +78,8 @@
 	- rechten pumpt das Blut in die Lunge(Lungenschleife)
 - Von Herz wegführende Blutgefässe heisst Arterien, um Herzfürenden heisst Venen
 - Die feinen Blutgefässen heissen Blutkapillaren
-	-   Die Blut fliessen sehr langsam im Kapillaren(Lunge, Sauerstoffverfügung)
-	-   Verzweigungsprinzip
-	-   Versorgung(O2) und Entsorgung(CO2)(Wir brauchen mehr Blut beim Sport)
+	- Die Blut fliessen sehr langsam im Kapillaren(Lunge, Sauerstoffverfügung)
+	- Verzweigungsprinzip
+	- Versorgung(O2) und Entsorgung(CO2)(Wir brauchen mehr Blut beim Sport)
 		- Bei Sport treibt es die Zellatmung
 ![[Pasted image 20230511192431.png]]
