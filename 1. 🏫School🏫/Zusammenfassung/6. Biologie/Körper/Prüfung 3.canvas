@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"fab4f0f1b49ed59d","x":-379,"y":80,"width":210,"height":56,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Enzyme.md"},
+		{"id":"dc824ee300d8fd81","x":-700,"y":172,"width":236,"height":59,"type":"text","text":"Verdauung"},
+		{"id":"7fbc9b423883a7d3","x":-379,"y":256,"width":434,"height":60,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Verdauungssystem.md"},
+		{"id":"1d9c13541373ce43","x":-700,"y":413,"width":307,"height":59,"type":"text","text":"Blut, Blutkreislauf, Herz"},
+		{"id":"351f518e3238b9e0","x":-1220,"y":172,"width":154,"height":59,"type":"text","text":"Prüfung 3"},
+		{"id":"7e2405c0fe0d4fcc","x":-320,"y":-320,"width":220,"height":50,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Stoffe/Proteine.md"},
+		{"id":"2294aabea3b87c76","x":-700,"y":-185,"width":236,"height":59,"type":"text","text":"Stoffe"},
+		{"id":"e102bf1388009a69","x":-320,"y":-185,"width":580,"height":59,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Stoffe/Kohlenhydrate(Saccharide).md"},
+		{"id":"ecffd2b6b1a9c652","x":-320,"y":-42,"width":301,"height":70,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Stoffe/Fette(Lipide).md"},
+		{"id":"3df54a69dabae62f","x":-697,"y":685,"width":236,"height":59,"type":"text","text":"Atmung"},
+		{"id":"ecbd54a63ac52621","x":-291,"y":680,"width":218,"height":70,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Atmung.md"},
+		{"id":"6b7ada4eeb6c5668","x":-271,"y":355,"width":178,"height":58,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Blut.md"},
+		{"id":"51d7d02b4524431f","x":-271,"y":472,"width":153,"height":60,"type":"file","file":"1. 🏫School🏫/Notizen/9. Biologie/Körper/Herz.md"}
+	],
+	"edges":[
+		{"id":"f81f80c0a458bce2","fromNode":"351f518e3238b9e0","fromSide":"right","toNode":"2294aabea3b87c76","toSide":"left"},
+		{"id":"0a83ac82ed437819","fromNode":"351f518e3238b9e0","fromSide":"right","toNode":"dc824ee300d8fd81","toSide":"left"},
+		{"id":"0ce952cca0b68091","fromNode":"351f518e3238b9e0","fromSide":"right","toNode":"1d9c13541373ce43","toSide":"left"},
+		{"id":"35412f363a4b8773","fromNode":"351f518e3238b9e0","fromSide":"right","toNode":"3df54a69dabae62f","toSide":"left"},
+		{"id":"9d0cf1746dea539d","fromNode":"2294aabea3b87c76","fromSide":"right","toNode":"7e2405c0fe0d4fcc","toSide":"left"},
+		{"id":"3b95bd4f2aa8e0d9","fromNode":"2294aabea3b87c76","fromSide":"right","toNode":"e102bf1388009a69","toSide":"left"},
+		{"id":"2abd1b62b84b47dd","fromNode":"2294aabea3b87c76","fromSide":"right","toNode":"ecffd2b6b1a9c652","toSide":"left"},
+		{"id":"1fd9482ce1508468","fromNode":"dc824ee300d8fd81","fromSide":"right","toNode":"fab4f0f1b49ed59d","toSide":"left"},
+		{"id":"dbbc9ccf0a73bd7e","fromNode":"dc824ee300d8fd81","fromSide":"right","toNode":"7fbc9b423883a7d3","toSide":"left"},
+		{"id":"b6f0955e7a3116e5","fromNode":"1d9c13541373ce43","fromSide":"right","toNode":"6b7ada4eeb6c5668","toSide":"left"},
+		{"id":"70a319d7230d3744","fromNode":"3df54a69dabae62f","fromSide":"right","toNode":"ecbd54a63ac52621","toSide":"left"},
+		{"id":"a2d766eeefb0a66a","fromNode":"1d9c13541373ce43","fromSide":"right","toNode":"51d7d02b4524431f","toSide":"left"}
+	]
+}
