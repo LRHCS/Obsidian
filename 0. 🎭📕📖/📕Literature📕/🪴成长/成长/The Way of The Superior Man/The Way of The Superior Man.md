@@ -1,3 +1,6 @@
+#读书 #个人成长 
+> Chase your **purpose(mission)**, live beyond the **edge**
+
 - Stop Hoping for a Completion of Anything in Life
 	- do whatever you want to do, don't wait
 - Live With an Open Heart Even If It Hurts
@@ -16,4 +19,13 @@
 - Never Change Your Mind Just to Please a Woman
 	- trust your own wisdom
 - Your Purpose Must Come Before Your Relationship
-	- 
+	- Mission > Women
+- Lean Just Beyond Your Edge
+	- Step out of the confort zone
+- Do It for Love
+- Enjoy Your Friends' Criticism
+	- Discuss everyweek with your friend about what you are doing and going to do
+- If You Don't Know Your Purpose, Discover It, Now
+- Be Willing to Change Everything in Your Life
+- Don't Use Your Family As an Excuse
+- Don't Get Lost in Tasks and Duties

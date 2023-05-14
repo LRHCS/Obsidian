@@ -85,7 +85,7 @@
 		{"type":"text","text":"Gym, Diet","id":"7a088803655ea8be","x":867,"y":3364,"width":250,"height":60},
 		{"type":"text","text":"Things that you don't wanna do","id":"23e671629cb06019","x":867,"y":3446,"width":356,"height":60},
 		{"type":"text","text":"**NoFap**","id":"92d5f388cf8eeb92","x":867,"y":3525,"width":250,"height":60},
-		{"type":"file","file":"0. 🎭📕📖/0. 📕Literature📕/🌇哲学/西方/1. 古希腊，罗马哲学/1. 前苏格拉底哲学/斯多葛学派/斯多葛学派.md","id":"fc3a5d1997ce8b75","x":867,"y":3705,"width":262,"height":50}
+		{"type":"file","file":"0. 🎭📕📖/📕Literature📕/🌇哲学/西方/1. 古希腊，罗马哲学/1. 前苏格拉底哲学/斯多葛学派/斯多葛学派.md","id":"fc3a5d1997ce8b75","x":867,"y":3705,"width":262,"height":50}
 	],
 	"edges":[
 		{"id":"6d27b03a7c93651c","fromNode":"04ab9d458f47c79b","fromSide":"right","toNode":"be796a754209c7a0","toSide":"left"},
