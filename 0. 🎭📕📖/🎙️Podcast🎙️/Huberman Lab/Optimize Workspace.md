@@ -1,6 +1,6 @@
 #podcast #个人成长 
 
-> **Focus**: Monitor up up tp 45 min with 5 min rest, Blue(Cold) Light, Sit straight up, Drink much water, 40hz of binaral beats
+> **Focus**: Monitor up up tp 45 min with 5 min rest, Blue(Cold) Light, Sit straight up, Drink much water, 40hz of binaral beats, higher screen brightness
 
 
 > **Analytic** : Low Ceiling, 0-8 Hour
@@ -9,7 +9,7 @@
 > **Creatively**: High Ceiling, 9-16 Hour
 
 
-> **Sleepy**: Monitor down , Cold Light, Sit backwards a little
+> **Sleepy**: Monitor down , Cold Light, Sit backwards a little, lower screen brightness
 
 
 # Light
