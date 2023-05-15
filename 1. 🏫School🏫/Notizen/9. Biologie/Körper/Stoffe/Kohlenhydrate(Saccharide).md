@@ -14,28 +14,29 @@ entsteht durch [[Photosynthese]] von Pflanzen
 # Unterkategorien/Fachbegriffe
 ## Einfachzucker(Monosaccharid)
 3-7 Kohlenstoffatom, ab 5 kommen sie sowohl in Kettenform als auch in Ringform($\alpha , \beta$) vor. 
-- Traubenzucker (Glukose)
-- Fruchtzucker (Fruktose)
-- Schleimzucker (Galaktose).
+- Traubenzucker (**Glukose**)
+- Fruchtzucker (**Fruktose**)
+- Schleimzucker (**Galaktose**).
 ## Doppelzucker(Disaccharide)
 besteht aus 2 nebenanander stehende Einfachzucker
-- Rohrzucker (Saccharose)
+- Rohrzucker (**Saccharose**)
 	- aus je einem Teil Trauben- und Fruchtzucker
 	- kommt in Speise als Zucker vor
-- Malzzucker (Maltose)
+- Malzzucker (**Maltose**)
 	- Malzzucker (Maltose)
-- Milchzucker (Laktose)
+- Milchzucker (**Laktose**)
 	- je einem Teil Trauben- und Schleimzucker
 	- In Milch von Säuglinge enthalten
+	- Wenn die Enzym die Laktose abbaut in dünndarm nicht vorhanden wäre, dann gibt es Laktoseintoleranz
 ## Mehrfachzucker(Polysaccharide)
 Verknüpfung von mehr als Tausende Monosaccharidmoleküle
-- Cellulose
-- Stärke
+- **Stärke**
 	- Reservestoff der Pflanzen, Beim Keimen wird es abgebaut und zur Energiebereitstellung genutzt
-	- $\alpha$
+	- $\alpha$ Zelle
 		- Amylose
 		- Amylopektin
-- Dextrine
-- Glykogen
+- **Glykogen**
 	- Reservestoff der Tieren und Menschen
 		- Beim Verbrauch wird es mit Hilfe der Enzyme in Glucose gespaltet
+- Dextrine
+- Cellulose

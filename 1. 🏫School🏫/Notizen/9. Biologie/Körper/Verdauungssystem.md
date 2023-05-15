@@ -18,6 +18,7 @@
 
 # 3. Magen
 - Verdauung von Proteine
+- Magensaft
 	- **Salzsäure**
 	- **Pepsin**(Verdauungsenzym)
 - Schleimhaut
@@ -25,23 +26,24 @@
 	- Nebenzelle
 	- Belegtzelle
 - **Tötung von Krankheitsereger**
+- **Zerkleinern/verkleinern** durch Peristatik
 - **Magenpförtner** führt zu Darm
 
 
 # 3. Dünndarm
 - Zwölffingerdarm
 	- Verdauungssaft aus Gallenblase und Bauchspeicheldrüse **zersetzen die Nahrung in einzelne Bestandteile**
-- Auf dem Weg duch den Dünndarm werden **die Nährstoffe durch Darmwand aufgenommen**
+- Auf dem Weg durch den Dünndarm werden **die Nährstoffe durch Darmwand aufgenommen**
 	- Dünndarm ist etwa 7m lang und hat eine Oberfläche von 40 Quadratmeter(einzelne Zotte)
 - Die Stärke([[Kohlenhydrate(Saccharide)]]) wird hier in Dünndarm in Einfachzucker(Amylose) abgebaut
 
 
-# 3.5 Leber
+# 3.5. Leber
 - Leber produzieren Gallensaft und wurde in Gallenblase gespeichert und bei bedarf in Zwölffingerdarm abgegeben
 - **[[Fette(Lipide)]]**(Lipide) in kleine Tröpfchen zersetzen
 	- **Fettsäure x,y,z**
 - Funktion
-	- Bildung Galle zum Fettabbauin Dünndarm
+	- Bildung Galle zum **Fettabbau** in Dünndarm
 	- Abbau Giftstoffen(Alkohol),roter Blutkörperchen und körper eigene Abfallstoffe
 	- Auf und Abbau von Eiweiss zu Aminosäure
 		- Ein Teil wird Aufgenommen
@@ -54,7 +56,7 @@
 
 Umbau von aufgenommenem zu Körpereigenem Fett
 
-# 3.5 Niere
+# 3.5. Niere
 - Das Blut waschen, die nicht zu Blut gehört aufnehmen.
 - Konzentrieren den Harnstoff immer Mehr
 - **1.5L**
@@ -65,16 +67,20 @@ Umbau von aufgenommenem zu Körpereigenem Fett
 	- Bildung von roten Körperchen
 	-  Filtert Harnstoff aus Blut und bildet Harn
 
-# 3.5 Bauchspeicheldrüse
+# 4. Bauchspeicheldrüse
 - **Vorstufen von Enzymen hergestellt** und in Zwölffingerdarm abgeben
-	- Eiweisse zersetzen
+	- Pepsin Eiweisse zersetzen
 	- Amylase(Stärke abbauende)
 	- Lipase(Fette abbauende)
+# 4. Galenblase
+Die Gallenblase speichert die von der Leber produzierten Galle und gibt es in den Zwölffingerdarm
 
-# 4. Dickdarm
+# 5. Dickdarm
 - Wasser und Salzen aus dem Nahrungsbrei gewinnen
 - Vitamine durch Darmflora aufnehmen
 
+# 6. Mastdarm
+Der Mastdarm ist dafür da, Kot zu speichern und zu entleeren. Ausserdem ist er für den Drang der entleerung zuständig und der Mastdarm produziert schleim um die Leerung zu einem reibungslosen Durchgang zu verwandeln. 
 
-# 5. After
+# 7. After
 - Kot
