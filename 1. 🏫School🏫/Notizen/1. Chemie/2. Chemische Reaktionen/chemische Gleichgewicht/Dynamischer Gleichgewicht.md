@@ -15,3 +15,9 @@ z.B:
 $$K = \frac {(1.8313*10^{-3})*(3.1291*10^{-3})} {(17.671*10^{-3})^2}$$
 
 Mit dem Berechnung bekommen wir 0.018350871, aber im Lösung steht 54.49332623. Diese K kann man von den beide Seite beobachten, da bekommt man zwei verschiedener Zahl. Man kann 1/K berechnen um die andere zu bekommt
+
+Das lassen sich auch beeinflussen
+Beispiel: Cola
+- $H2CO3 <=> CO2 + H2O$
+- sie sind nicht gleich schnell, wenn wir die Cola-Flasche öffnen, dann wrden die Gleichgewicht zerstört: die Kohlensäure wird weniger
+

@@ -1,6 +1,6 @@
 # Verdauung
 - Die organische Stoffe abbauen und die darin enthaltenen Stoffe aufnehmen
-	- Die organische Stoffe sind die Stoffe die C-H Verbindung enthält
+	- Die organische Stoffe sind die Stoffe die C-H Verbindung und die Kohlenstoffkette enthält
 - Die Menschen sind **heterotroph**, die Pflanzen **autotroph**
 	- Das bedeutet, dass die Menschen etwas selbst essen muss damit ernährt zu werden. Die Pflanzen können Photosynthese benutzen zum ernähren
 
