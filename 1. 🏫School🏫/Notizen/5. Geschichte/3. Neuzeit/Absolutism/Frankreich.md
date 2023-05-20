@@ -27,5 +27,3 @@
 ## Religion
 - nur Katholisch
 	- die Calvinisten sind nach anderer Länder gefluchtet. 
-
-## [[Merkantilismus]]

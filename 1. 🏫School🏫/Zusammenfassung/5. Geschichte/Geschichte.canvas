@@ -1,18 +1,18 @@
 {
 	"nodes":[
 		{"type":"text","text":"## Vor- und Frühgeschichte","id":"313466c947e02b9f","x":-653,"y":-423,"width":335,"height":50},
-		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Antike/Ur- und Frühgeschichten.md","id":"6ab45ba8335f53ec","x":-1208,"y":-446,"width":416,"height":97},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/0. Antike/Ur- und Frühgeschichten.md","id":"6ab45ba8335f53ec","x":-1208,"y":-446,"width":416,"height":97},
 		{"type":"text","text":"## Antike","id":"c462bbe9ca86b89c","x":-610,"y":-210,"width":250,"height":60},
-		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Antike/Lernzielen Römische Republik.md","id":"9c856834be758cc2","x":-1288,"y":-315,"width":496,"height":87},
-		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Antike/Test Geschichte Römisches Reich.md","id":"1bf15dd2e6dacc7d","x":-1322,"y":-122,"width":530,"height":102},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/0. Antike/Lernzielen Römische Republik.md","id":"9c856834be758cc2","x":-1288,"y":-315,"width":496,"height":87},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/0. Antike/Test Geschichte Römisches Reich.md","id":"1bf15dd2e6dacc7d","x":-1322,"y":-122,"width":530,"height":102},
 		{"type":"text","text":"## Mittelalter","id":"4a6ae221484165c5","x":-610,"y":159,"width":250,"height":60},
-		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Mittelalter/Mittelalter.md","id":"d7c06912bcfc753a","x":-1114,"y":57,"width":266,"height":60},
-		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Mittelalter/Islam Lernzielen.md","id":"c466ae47c675cc0b","x":-1161,"y":247,"width":363,"height":60},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/1. Mittelalter/Mittelalter.md","id":"d7c06912bcfc753a","x":-1114,"y":57,"width":266,"height":60},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/1. Mittelalter/Islam Lernzielen.md","id":"c466ae47c675cc0b","x":-1161,"y":247,"width":363,"height":60},
 		{"type":"text","text":"## Neuzeit","id":"3c3d0e91409d8da9","x":-624,"y":806,"width":194,"height":60},
 		{"type":"text","text":"# Geschichte","id":"7cc9457c75eaf318","x":-88,"y":19,"width":200,"height":60},
 		{"type":"text","text":"## Renaissance","id":"cbd6e830c7019744","x":-657,"y":508,"width":252,"height":69},
-		{"id":"9fb897afed230dce","x":-1057,"y":469,"width":298,"height":58,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Renaissance/Reformation.md"},
-		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/Renaissance/Renaissance.md","id":"b5df6fc7c9581670","x":-1057,"y":577,"width":298,"height":59}
+		{"id":"9fb897afed230dce","x":-1057,"y":469,"width":298,"height":58,"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/2. Renaissance/Reformation.md"},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/5. Geschichte/2. Renaissance/Renaissance.md","id":"b5df6fc7c9581670","x":-1057,"y":577,"width":298,"height":59}
 	],
 	"edges":[
 		{"id":"00977eb58c90290a","fromNode":"313466c947e02b9f","fromSide":"right","toNode":"7cc9457c75eaf318","toSide":"left"},
