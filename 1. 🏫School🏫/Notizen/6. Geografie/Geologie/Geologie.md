@@ -1,0 +1,6 @@
+# Definition
+Die Geologie ist die Wissenschaft von **Aufbau, Zusammensetzung und Struktur der Erdkruste**, der **Eigenschaften ihrer Gesteine** und ihrer **Entwicklungsgeschichte** sowie der Prozesse, welche die Erdkruste formten und bis heute formen.
+
+
+![[Entstehung Erde]]
+![[Schalenaufbau]]

@@ -1,7 +1,10 @@
 ![[Pasted image 20230502152516.png]]
 
-# Völkerrecht
+# Völkerrecht(International)
 ![[0. Völkerrecht]]
+
+---
+Inlandisch
 
 # Geschriebenen Rechts
 ![[1. Geschriebenen Rechts]]
