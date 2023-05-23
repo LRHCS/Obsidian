@@ -1,3 +1,13 @@
+
+# Funktion
+-   Friedensfunktion
+-   Schutzfunktion
+-   Freiheitsfunktion
+-   Sicherheitsfunktion
+-   Abschrekungsfunktion
+-   Ordnungsfunktion
+-   Ausgleichsfunktion
+
 ![[Pasted image 20230502152516.png]]
 
 # Völkerrecht(International)
