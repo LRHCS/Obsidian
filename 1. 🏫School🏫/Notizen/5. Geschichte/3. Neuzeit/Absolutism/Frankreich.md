@@ -14,10 +14,11 @@
 - 4 Schichten
 	- König
 		- Verkauft Titel
-	- Klerus
-	- Adel
-	- Meisten Menschen(Recht ausgebeutet)
-		- Viele Steuer
+	- Klerus/Adel
+		- Vorrechte, keine Steuer, lebt von die Steuer von Bauer
+	- Dritter Stand
+		- Meisten Menschen(Recht ausgebeutet)
+		- Viele Steuer, nur sie bezahlen das
 ## Sprache(Kultur)
 - Französisch statt Latein, viele Komplizierte Regel
 	- academie francaise

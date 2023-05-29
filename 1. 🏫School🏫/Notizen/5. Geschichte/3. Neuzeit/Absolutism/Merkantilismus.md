@@ -3,6 +3,7 @@
 	- Die Produktion von **Manufaktoren** steigern(sie produzieren die Fertigwaren)
 
 ![[Pasted image 20230528220049.png]]
+- Die Rohstoffe möglichst billig von Ausland(Kolonien) importieren und möglich teuer als Fertigwaren exportieren
 
 - Schutz der Wirtschaft durch Schutzzölle, nur die Rohstoffe aus Frankreich oder seine Kolonien konnte verarbeitet werden.
 - Billigere Transport
@@ -17,13 +18,19 @@
 
 
 |      Ausgaben     | Einnahmen              |
-|:-----------------:|------------------------|
+|:-----------------:|:------------------------:|
 | teure Hofhaltung  | Steuern                |
 | Aufwändige Bauten | Zölle                  |
 | Stehendes Heer    | Manufaktoren           |
-| Kriege            | Strassen + Kanäle      |
-|                   | Rohstoffe aus Kolonien |
+| Kriege            |   Rohstoffe aus Kolonien   |
+| Strassen + Kanäle   |  |
 
+Ziele: 
+1. Selbstdarstellung des absolutistischen Herschers
+2. Streben nach **Grossmachtstellung**
+3. **Lenkung der Wirtschaft** durch den Staat(König)
+4. Frankreich als **einheitliches Wirtschaftsgebiet**
+5. **wirtschaftliche Schädigung** andere Staaten
 
 ---
 
