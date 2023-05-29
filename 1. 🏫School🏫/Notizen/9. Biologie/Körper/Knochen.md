@@ -11,11 +11,15 @@ Wenn man es brennt, dann wird es brechen
 
 Die Bewegungsmöglichkeit hängt von die Form ab
 
+Scharniergelenk: Bewegung in 1 Ebene(Elbogen, Finger)
+![[Pasted image 20230527165942.png]]
 
-Kugelgelenk: Alle Richtungen
+Sattelgelenk: Bewegung in 2 Ebenen(Daumen)
+![[Pasted image 20230527165917.png]]
 
-Scharniergelenk: Oben, unter
+Kugelgelenk: Alle 3 Richtungen(Obeschenkel)
+![[Pasted image 20230527165927.png]]
 
-Drehgelenk: 360 grad in eine Achse
+Drehgelenk: Rotation(Elbogen, Drehen)
+![[Pasted image 20230527165934.png]]
 
-Sattelgelenk: Links,recht, vorne, hinter
