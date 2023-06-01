@@ -1,5 +1,7 @@
+#Prüfung #Chemie 
+
 ![[Aktivierungsenergie]]
 ![[Reaktionsgeschwindigkeit]]
 ![[Autokatalysator]]
-![[Energieminimum - Entropie]]
+![[Entropie]]
 ![[Enthalpien]]

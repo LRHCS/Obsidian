@@ -17,7 +17,7 @@ $$K = \frac {(1.8313*10^{-3})*(3.1291*10^{-3})} {(17.671*10^{-3})^2}$$
 Mit dem Berechnung bekommen wir 0.018350871, aber im Lösung steht 54.49332623. Diese K kann man von den beide Seite beobachten, da bekommt man zwei verschiedener Zahl. Man kann 1/K berechnen um die andere zu bekommt
 
 
-Prinzip der Chatelier
+**Prinzip der Chatelier**
 - Mit dem **Druck, Temperatur oder die Konzentration** kann man die Geschwindigkeit von Rück oder Hinreaktion verändern
 
 ![[Pasted image 20230516144132.png]]
