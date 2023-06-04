@@ -25,3 +25,9 @@ Nur einem Zellkern
 
 # Agonist und Antagonist
 ![[Pasted image 20230527170155.png]]
+
+# Arten von Skelettmuskulatur
+![[Pasted image 20230603211538.png]]
+
+# Energiebereitstellung für die Muskel
+![[Pasted image 20230603211618.png]]

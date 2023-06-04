@@ -4,13 +4,13 @@ Die **Streuung** von Punkte
 
 
 - SST/SSE
-	- SST Abtand zur zu Mittelwert
-	- SSE Abstand zur Regressionlinie
+	- SST Abtand Punkt zur zu Mittelwert in Quadrat
+	- SSE Abstand Punkt zur Regressionlinie in Quadrat
 
-
+	
 
 Beispiel: 
 ![[Pasted image 20230522113116.png | 700]]
 
- - Mit eine höhere r sind die Datenw weniger gestreut 
+ - Mit eine höhere r sind die Daten weniger gestreut 
 ![[Pasted image 20230522113443.png]]
