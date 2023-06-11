@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Mathematik","id":"c6bc420021247715","x":-128,"y":-108,"width":291,"height":60},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe/Funktionen.md","id":"c8125eb7cc5b56ab","x":-785,"y":-352,"width":371,"height":92},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe/Gleichungssystem.md","id":"51ee3e2b40d2ec48","x":-757,"y":-126,"width":314,"height":96},
+		{"type":"text","text":"## Geometry","id":"eccf6e68375b1876","x":177,"y":-108,"width":216,"height":60},
+		{"type":"file","file":"0. 🖼️/img 5/Pasted image 20221230152655.png","id":"cd98f30a3d7fbbdb","x":-969,"y":-1698,"width":1969,"height":1108},
+		{"type":"text","text":"Quadratische Gleichungen","id":"c6c389cdb00b3933","x":-1119,"y":-108,"width":250,"height":60},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe/Quadratische Funktionen.md","id":"7af76c254bec9895","x":-1175,"y":-365,"width":306,"height":119},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe/Mengenslehre.md","id":"b8019fd7275657cd","x":-116,"y":420,"width":336,"height":60},
+		{"type":"text","text":"## Algebra","id":"3460c5ffe761d4ba","x":-360,"y":-108,"width":190,"height":50},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/sM/Geraden und Ebenen.md","id":"7963c336a0579db1","x":589,"y":-127,"width":367,"height":79},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe/Trigometrie.md","id":"b27d4b2073e4a713","x":589,"y":8,"width":230,"height":94},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/sM/Elipse.md","id":"0118c6ee91f9dd7a","x":606,"y":-270,"width":197,"height":99},
+		{"type":"text","text":"Perspektive Affinität","id":"439bcfd36fb79746","x":580,"y":123,"width":250,"height":50},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/sM/Matrizen.md","id":"ce4bfd8861c9e99a","x":-757,"y":8,"width":239,"height":67},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/sM/Vektoren.md","id":"82e8a8692a8ef3c9","x":-800,"y":148,"width":261,"height":54},
+		{"type":"file","file":"1. 🏫School🏫/Zusammenfassung/0. Mathe/Mathe/Potenzen.md","id":"cba61a43c091bfa3","x":-860,"y":250,"width":302,"height":50}
+	],
+	"edges":[
+		{"id":"5670c176ff0b5f61","fromNode":"7af76c254bec9895","fromSide":"right","toNode":"c8125eb7cc5b56ab","toSide":"left"},
+		{"id":"5dffb532675cbcf0","fromNode":"c6c389cdb00b3933","fromSide":"right","toNode":"51ee3e2b40d2ec48","toSide":"left"},
+		{"id":"3e0e5a24cdb524dd","fromNode":"c6bc420021247715","fromSide":"left","toNode":"3460c5ffe761d4ba","toSide":"right"},
+		{"id":"1efef99654137109","fromNode":"c8125eb7cc5b56ab","fromSide":"right","toNode":"3460c5ffe761d4ba","toSide":"left"},
+		{"id":"9645913478fc315e","fromNode":"51ee3e2b40d2ec48","fromSide":"right","toNode":"3460c5ffe761d4ba","toSide":"left"},
+		{"id":"63a95c2b7656b79b","fromNode":"ce4bfd8861c9e99a","fromSide":"right","toNode":"3460c5ffe761d4ba","toSide":"left"},
+		{"id":"7aaf6a9c3c6141d7","fromNode":"b8019fd7275657cd","fromSide":"top","toNode":"c6bc420021247715","toSide":"bottom"},
+		{"id":"426572f3a5fe5571","fromNode":"82e8a8692a8ef3c9","fromSide":"right","toNode":"3460c5ffe761d4ba","toSide":"left"},
+		{"id":"f3f98fb36ee661aa","fromNode":"c6bc420021247715","fromSide":"right","toNode":"eccf6e68375b1876","toSide":"left"},
+		{"id":"e12ab4fa8ab75776","fromNode":"0118c6ee91f9dd7a","fromSide":"left","toNode":"eccf6e68375b1876","toSide":"right"},
+		{"id":"6a43bc77fe9c813a","fromNode":"7963c336a0579db1","fromSide":"left","toNode":"eccf6e68375b1876","toSide":"right"},
+		{"id":"485bc27709bc045c","fromNode":"b27d4b2073e4a713","fromSide":"left","toNode":"eccf6e68375b1876","toSide":"right"},
+		{"id":"0a62ed480de49e2e","fromNode":"439bcfd36fb79746","fromSide":"left","toNode":"eccf6e68375b1876","toSide":"right"},
+		{"id":"3ce50076c59db963","fromNode":"cba61a43c091bfa3","fromSide":"right","toNode":"3460c5ffe761d4ba","toSide":"left"}
+	]
+}

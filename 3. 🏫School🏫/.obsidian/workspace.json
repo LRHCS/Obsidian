@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "56e01080f390952b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b97dba7e0a0974aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ac14c77c6940c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zusammenfassung/10. Deutsch/Literatur/Wilhem Tell/Wilhem Tell.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3d7c70862166f27",
+    "type": "split",
+    "children": [
+      {
+        "id": "6da028a3fa7d51f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c039c04a0deb29ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37b1905f02b4af9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e243204f052e849d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d5d120ebbc18c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8512f1340a690468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b03af923ceaa4950",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zusammenfassung/10. Deutsch/Literatur/Wilhem Tell/Wilhem Tell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7dde5ce03317813",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zusammenfassung/10. Deutsch/Literatur/Wilhem Tell/Wilhem Tell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b716bdacfb4a3c8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41531c9b72c2d3f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zusammenfassung/10. Deutsch/Literatur/Wilhem Tell/Wilhem Tell.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ac14c77c6940c64",
+  "lastOpenFiles": [
+    "Zusammenfassung/10. Deutsch/Literatur/Wilhem Tell/Wilhem Tell.md"
+  ]
+}
