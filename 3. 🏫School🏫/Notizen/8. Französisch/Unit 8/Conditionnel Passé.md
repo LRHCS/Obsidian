@@ -2,6 +2,9 @@ Conditionnel Présent d'auxilliare(être(**serais**), avoir(**aurais**)) + parti
 
 
 Si satz:
-kann schon sein: Si + **Présent**, **Présent**, futur simple
-möglich, aber nicht sicher: si + **Imparfait**, **Conditionnel présent**
-nicht mehr möglich: si + **Plus-que-parfait**, **Conditionnel passé**
+kann schon sein: 
+- Si + **Présent**, **futur simple**.
+möglich, aber nicht sicher: 
+- Si + **Imparfait**, **Conditionnel présent**.
+nicht mehr möglich: 
+- Si + **Plus-que-parfait**, **Conditionnel passé**.
