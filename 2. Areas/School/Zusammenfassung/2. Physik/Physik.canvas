@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Physik","id":"69c2ec6b747d5739","x":-88,"y":93,"width":148,"height":60},
+		{"type":"text","text":"## Mechanik","id":"45db8f270fe02e52","x":-391,"y":93,"width":211,"height":60}
+	],
+	"edges":[
+		{"id":"64ec89272739ffec","fromNode":"45db8f270fe02e52","fromSide":"right","toNode":"69c2ec6b747d5739","toSide":"left"}
+	]
+}
