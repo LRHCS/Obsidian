@@ -24,4 +24,3 @@ a lousy serve ->"I'm serving badly today”-> "I have a terrible serve”-> "I'm
 **Relaxation** produces smooth strokes and results from accepting your strokes as they are, even if erratic
 positiv thinking is like a prehabit of negative thinking
 - Compliments are criticisms in disguise! Both are used to manipulate behavior, and compliments are just more socially acceptable!
-42
