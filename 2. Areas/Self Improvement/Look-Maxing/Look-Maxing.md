@@ -17,7 +17,7 @@
 # Good Skin
 
 ## Skin Care Routine
-- Shave + Apply Ice + Washing Face with Cleanser + Moisturizer + Sunscreen + (Skin medicine)
+- Shower(Man-Shave) + Body Lotion+ Micro Shaving + Brushing Teeth,Toungue,Lips + Washing Face with Cleanser + Moisturizer+ Sunscreen + (Skin medicine) + Fragrance/Deodorant
 - Sleep Hygien
 	- No Elektronics 30 minutes before Bed
 	- Warm Milk with honey
@@ -36,6 +36,7 @@
 ## Mouth
 - Bruth teeth twice + Scrap tounge + Mouth wash + Floss
 - Jewing-Gum without sugar
+- Brush with Baking Soda for 1 min 3 times a week
 
 ## Body
 - Trim Fingernail

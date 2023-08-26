@@ -12,7 +12,7 @@ Die Asthenosphäre ist fliessfähig(Konvektionsströme), damit wird die Platte b
 
 # Plattengrenzen
 
-## Divergierende 
+## Divergierende(Auseinander)
 - Konstruktive Plattengrenzen
 - Mittelozanische Rücken
 - Magretstreifenmuster
@@ -20,7 +20,7 @@ Die Asthenosphäre ist fliessfähig(Konvektionsströme), damit wird die Platte b
 - Bildung von Ozanische Kruste
 ![[Pasted image 20230705210837.png]]
 
-## Konvergierende
+## Konvergierende(Aufeinandertreffend)
 K-O
 - destruktive Plattengrenzen
 - Subduktionszone
